@@ -1,0 +1,127 @@
+[
+{
+	"uri": "http://localhost:1313/",
+	"title": "Internship Report",
+	"tags": [],
+	"description": "",
+	"content": "Internship Report Student Information: Full Name: Nguyễn Tấn Lộc\nPhone Number: 0965438184\nEmail: locnguyetan0210@gmail.com\nUniversity: Ho Chi Minh City University of Technology (HUTECH)\nMajor: Software Engineering\nClass: 22DTHD7\nInternship Company: Amazon Web Services Vietnam Co., Ltd.\nInternship Position: FCJ Cloud Intern\nInternship Duration: From April 17, 2026 to July 10, 2026\nReport Content Worklog Proposal Self-evaluation "
+},
+{
+	"uri": "http://localhost:1313/1-worklog/1.1-week1/",
+	"title": "Week 1 Worklog",
+	"tags": [],
+	"description": "",
+	"content": "Week 1 Objectives: Get acquainted with FCJ Cloud Intern team members Participate in the kickoff session and understand the internship program Research and complete basic lab exercises Establish communication channel with the team Prepare JavaScript knowledge for the project Create repository and write worklog Research Hugo and related technologies Tasks Completed: Date Task Result Resources Notes 17/04/2026 - Get acquainted with team members\n- Participate in kickoff and answer questions from Mr. Hưng\n- Research lab materials\n- Complete AWS account creation lab\n- Complete Kiro installation lab - Connected with other interns\n- Understood roadmap and requirements\n- Created AWS Free Tier account\n- Successfully installed and configured Kiro AWS Study Group YouTube\nCloud Journey Onboarding and environment setup 18/04/2026 - Continue research and learning\n- Create Discord server \u0026ldquo;Lamentum\u0026rdquo; for team communication - Gained more knowledge about AWS\n- Successfully created and setup Discord server\n- Invited team members to join AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum Team communication channel setup 19/04/2026 - Continue research on YouTube\n- Search and learn advanced JavaScript content to prepare for the project - Mastered advanced JavaScript knowledge\n- Ready to apply in real projects AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum Project preparation 20/04/2026 - Create GitHub repository for worklog\n- Write worklog for previous days\n- Continue research on Hugo and related technologies\n- Discuss project ideas with team members - Successfully created FACJ_Worklog repo\n- Completed worklog for past days\n- Understood Hugo static site generator\n- Have initial project ideas AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Documentation and brainstorming Knowledge Gained: AWS Account Setup: How to create and configure AWS Free Tier account Kiro IDE: Familiarized with Kiro - AI-powered development tool FCJ Program: Understanding of First Cloud Journey program structure Team Collaboration: Teamwork and communication skills Discord Server Management: Creating and managing Discord server for team Advanced JavaScript: Advanced JavaScript knowledge to prepare for the project Hugo Static Site Generator: How to use Hugo to create static websites Git \u0026amp; GitHub: Version control and documentation management Achievements: Completed all assigned labs on the first day Established good connections with team members Ready for upcoming weeks with fully setup work environment Set up official communication channel for the team via Discord Proactively learned advanced JavaScript to prepare for the project Created repository and started documenting internship process Researched and mastered Hugo framework Challenges \u0026amp; Solutions: Challenge: First time working with AWS and new tools Solution: Carefully read documentation and asked experienced team members for help Challenge: Not familiar with Hugo and static site structure Solution: Studied documentation and practiced creating worklog Resources \u0026amp; References: AWS Study Group YouTube Cloud Journey Discord Lamentum GitHub Worklog Repository Hugo Documentation "
+},
+{
+	"uri": "http://localhost:1313/1-worklog/",
+	"title": "Worklog",
+	"tags": [],
+	"description": "",
+	"content": "Worklog This is my worklog documenting my 12-week internship journey at Amazon Web Services Vietnam as an FCJ Cloud Intern.\nOverview Throughout the 12-week internship, I experienced a learning and development journey in AWS Cloud Computing, from basic knowledge to real-world projects.\nWeekly Content Week 1: First Week - Onboarding and Getting Started\nWeek 2: Week 2\nWeek 3: Week 3\nWeek 4: Week 4\nWeek 5: Week 5\nWeek 6: Week 6\nWeek 7: Week 7\nWeek 8: Week 8\nWeek 9: Week 9\nWeek 10: Week 10\nWeek 11: Week 11\nWeek 12: Week 12\n"
+},
+{
+	"uri": "http://localhost:1313/2-proposal/",
+	"title": "Proposal",
+	"tags": [],
+	"description": "",
+	"content": "In this section, you need to summarize the content of the workshop or project that you plan to do.\n[Your Project Title] 1. Executive Summary [Add your content here]\n2. Problem Statement [Add your content here]\n3. Solution Architecture [Add your content here]\n4. Technical Implementation [Add your content here]\n5. Timeline \u0026amp; Milestones [Add your content here]\n6. Budget Estimation [Add your content here]\n7. Risk Assessment [Add your content here]\n8. Expected Outcomes [Add your content here]\n"
+},
+{
+	"uri": "http://localhost:1313/1-worklog/1.2-week2/",
+	"title": "Week 2 Worklog",
+	"tags": [],
+	"description": "",
+	"content": "Week 2 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
+},
+{
+	"uri": "http://localhost:1313/6-self-evaluation/",
+	"title": "Self-evaluation",
+	"tags": [],
+	"description": "",
+	"content": "Throughout my internship at [Company Name] from [Start Date] to [End Date], I had the opportunity to learn, practice, and apply the knowledge I gained at university to a real work environment.\nTo objectively reflect on my internship process, I would like to evaluate myself based on the following criteria:\nNo. Criteria Description Excellent Good Average 1 Professional Knowledge \u0026amp; Skills Understanding of the field, applying knowledge in practice, tool usage skills, work quality ☐ ☐ ☐ 2 Learning Ability Absorbing new knowledge, learning quickly ☐ ☐ ☐ 3 Proactiveness Self-learning, taking on tasks without waiting for instructions ☐ ☐ ☐ 4 Sense of Responsibility Completing work on time, ensuring quality ☐ ☐ ☐ 5 Discipline Following schedules, regulations, work processes ☐ ☐ ☐ 6 Growth Mindset Willing to receive feedback and improve oneself ☐ ☐ ☐ 7 Communication Presenting ideas, reporting work clearly ☐ ☐ ☐ 8 Teamwork Working effectively with colleagues, participating in teams ☐ ☐ ☐ 9 Professional Conduct Respecting colleagues, partners, work environment ☐ ☐ ☐ 10 Problem-Solving Thinking Identifying problems, proposing solutions, creativity ☐ ☐ ☐ 11 Contribution to Project/Organization Work effectiveness, improvement initiatives, team recognition ☐ ☐ ☐ 12 Overall Overall assessment of the entire internship process ☐ ☐ ☐ Areas for Improvement [Add areas you need to improve] "
+},
+{
+	"uri": "http://localhost:1313/1-worklog/1.3-week3/",
+	"title": "Week 3 Worklog",
+	"tags": [],
+	"description": "",
+	"content": "Week 3 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
+},
+{
+	"uri": "http://localhost:1313/1-worklog/1.4-week4/",
+	"title": "Week 4 Worklog",
+	"tags": [],
+	"description": "",
+	"content": "Week 4 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
+},
+{
+	"uri": "http://localhost:1313/1-worklog/1.5-week5/",
+	"title": "Week 5 Worklog",
+	"tags": [],
+	"description": "",
+	"content": "Week 5 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
+},
+{
+	"uri": "http://localhost:1313/1-worklog/1.6-week6/",
+	"title": "Week 6 Worklog",
+	"tags": [],
+	"description": "",
+	"content": "Week 6 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
+},
+{
+	"uri": "http://localhost:1313/1-worklog/1.7-week7/",
+	"title": "Week 7 Worklog",
+	"tags": [],
+	"description": "",
+	"content": "Week 7 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
+},
+{
+	"uri": "http://localhost:1313/1-worklog/1.8-week8/",
+	"title": "Week 8 Worklog",
+	"tags": [],
+	"description": "",
+	"content": "Week 8 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
+},
+{
+	"uri": "http://localhost:1313/1-worklog/1.9-week9/",
+	"title": "Week 9 Worklog",
+	"tags": [],
+	"description": "",
+	"content": "Week 9 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
+},
+{
+	"uri": "http://localhost:1313/1-worklog/1.10-week10/",
+	"title": "Week 10 Worklog",
+	"tags": [],
+	"description": "",
+	"content": "Week 10 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
+},
+{
+	"uri": "http://localhost:1313/1-worklog/1.11-week11/",
+	"title": "Week 11 Worklog",
+	"tags": [],
+	"description": "",
+	"content": "Week 11 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
+},
+{
+	"uri": "http://localhost:1313/1-worklog/1.12-week12/",
+	"title": "Week 12 Worklog",
+	"tags": [],
+	"description": "",
+	"content": "Week 12 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
+},
+{
+	"uri": "http://localhost:1313/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://localhost:1313/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
