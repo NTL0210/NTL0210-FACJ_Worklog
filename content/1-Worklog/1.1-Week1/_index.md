@@ -24,6 +24,7 @@ pre: " <b> 1.1. </b> "
 | 18/04/2026 | - Continue research and learning<br>- Create Discord server "Lamentum" for team communication | - Gained more knowledge about AWS<br>- Successfully created and setup Discord server<br>- Invited team members to join | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq) | Team communication channel setup |
 | 19/04/2026 | - Continue research on YouTube<br>- Search and learn advanced JavaScript content to prepare for the project | - Mastered advanced JavaScript knowledge<br>- Ready to apply in real projects | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq) | Project preparation |
 | 20/04/2026 | - Create GitHub repository for worklog<br>- Write worklog for previous days<br>- Continue research on Hugo and related technologies<br>- Discuss project ideas with team members | - Successfully created FACJ_Worklog repo<br>- Completed worklog for past days<br>- Understood Hugo static site generator<br>- Have initial project ideas | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Documentation and brainstorming |
+| 21/04/2026 | - Research more about Draw.io<br>- Continue studying lab exercises | - Mastered Draw.io for architecture diagrams<br>- Completed more AWS labs | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Diagram design and lab practice |
 
 ### Knowledge Gained:
 
@@ -35,6 +36,7 @@ pre: " <b> 1.1. </b> "
 * **Advanced JavaScript**: Advanced JavaScript knowledge to prepare for the project
 * **Hugo Static Site Generator**: How to use Hugo to create static websites
 * **Git & GitHub**: Version control and documentation management
+* **Draw.io**: Using Draw.io for architecture diagrams and design
 
 ### Achievements:
 

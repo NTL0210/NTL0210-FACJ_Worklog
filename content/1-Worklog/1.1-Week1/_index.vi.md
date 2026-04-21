@@ -24,6 +24,7 @@ pre: " <b> 1.1. </b> "
 | 18/04/2026 | - Tiếp tục nghiên cứu và học<br>- Tạo Discord server "Lamentum" để liên lạc với các thành viên | - Nắm vững thêm kiến thức về AWS<br>- Đã tạo và setup Discord server thành công<br>- Mời các thành viên tham gia | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq) | Thiết lập kênh giao tiếp nhóm |
 | 19/04/2026 | - Tiếp tục nghiên cứu trên YouTube<br>- Tìm kiếm và học các nội dung nâng cao về JavaScript để chuẩn bị cho dự án | - Nắm vững thêm kiến thức JavaScript nâng cao<br>- Sẵn sàng áp dụng vào dự án thực tế | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq) | Chuẩn bị kiến thức cho dự án |
 | 20/04/2026 | - Tạo GitHub repository để đẩy worklog<br>- Viết worklog cho các ngày trước<br>- Tiếp tục nghiên cứu về Hugo và các công nghệ liên quan<br>- Trao đổi với thành viên về ý tưởng lên đề tài | - Đã tạo repo FACJ_Worklog thành công<br>- Hoàn thành worklog cho các ngày đã qua<br>- Hiểu rõ về Hugo static site generator<br>- Có ý tưởng ban đầu cho đề tài | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Documentation và brainstorming |
+| 21/04/2026 | - Nghiên cứu rõ hơn về Draw.io<br>- Tiếp tục nghiên cứu các bài lab | - Nắm vững cách sử dụng Draw.io để vẽ sơ đồ kiến trúc<br>- Hoàn thành thêm các bài lab AWS | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Diagram design và lab practice |
 
 ### Kiến thức đã học:
 
@@ -35,6 +36,7 @@ pre: " <b> 1.1. </b> "
 * **Advanced JavaScript**: Các kiến thức JavaScript nâng cao để chuẩn bị cho dự án
 * **Hugo Static Site Generator**: Cách sử dụng Hugo để tạo website tĩnh
 * **Git & GitHub**: Quản lý version control và documentation
+* **Draw.io**: Sử dụng Draw.io để vẽ sơ đồ kiến trúc và diagram
 
 ### Thành tựu:
 
