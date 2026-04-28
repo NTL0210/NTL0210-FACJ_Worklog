@@ -19,6 +19,7 @@ pre: " <b> 1.2. </b> "
 | Ngày | Công việc | Kết quả | Tài liệu | Ghi chú |
 |------|-----------|---------|----------|---------|
 | 27/04/2026 | - Tiếp tục nghiên cứu sâu về lý thuyết Module 2<br>- Học về AWS Virtual Private Cloud (VPC)<br>- Học về VPC Security và Multi-VPC features<br>- Học về VPN, DirectConnect, LoadBalancer và Extra Resources | - Hiểu sâu hơn về các khái niệm VPC<br>- Làm rõ các cơ chế VPC Security<br>- Hiểu về kiến trúc Multi-VPC<br>- Nắm được về VPN và DirectConnect<br>- Hiểu chức năng LoadBalancer | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Nghiên cứu sâu lý thuyết Module 2 |
+| 28/04/2026 | - Bắt đầu thực hành với các bài lab Module 2<br>- Áp dụng kiến thức lý thuyết vào bài tập thực hành<br>- Xác định các vấn đề cần nghiên cứu thêm | - Bắt đầu triển khai thực tế các khái niệm VPC<br>- Gặp một số khúc mắc nhỏ trong quá trình thực hành<br>- Xác định được các phần cần học thêm<br>- Có tiến bộ nhưng chưa thành thục | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Thực hành Module 2 - giai đoạn đầu |
 
 ### Kiến thức đã học:
 

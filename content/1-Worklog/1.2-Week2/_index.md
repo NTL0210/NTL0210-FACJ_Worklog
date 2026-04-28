@@ -19,6 +19,7 @@ pre: " <b> 1.2. </b> "
 | Date | Task | Result | Resources | Notes |
 |------|------|--------|-----------|-------|
 | 27/04/2026 | - Continue in-depth research on Module 2 theory<br>- Study AWS Virtual Private Cloud (VPC)<br>- Study VPC Security and Multi-VPC features<br>- Study VPN, DirectConnect, LoadBalancer, and Extra Resources | - Gained deeper understanding of VPC concepts<br>- Clarified VPC Security mechanisms<br>- Understood Multi-VPC architecture<br>- Learned about VPN and DirectConnect<br>- Understood LoadBalancer functionality | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Module 2 theory deep dive |
+| 28/04/2026 | - Start hands-on practice with Module 2 labs<br>- Apply theoretical knowledge to practical exercises<br>- Identify areas needing further research | - Began practical implementation of VPC concepts<br>- Encountered some minor challenges during practice<br>- Identified specific areas requiring additional study<br>- Made progress but not yet fully proficient | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Module 2 hands-on practice - initial stage |
 
 ### Knowledge Gained:
 
