@@ -1,6 +1,6 @@
 ---
 title: "Week 3 Worklog"
-date: 2026-04-17
+date: 2026-05-04
 weight: 3
 chapter: false
 pre: " <b> 1.3. </b> "
@@ -8,30 +8,37 @@ pre: " <b> 1.3. </b> "
 
 ### Week 3 Objectives:
 
-* [Add your objectives here]
+* Move forward with Module 3 content
+* Identify and defer unclear Module 2 topics for later review
+* Build foundation for Module 3 concepts
+* Plan to revisit Module 2 when ready
 
 ### Tasks Completed:
 
-| Date | Task | Result | Notes |
-|------|------|--------|-------|
-| DD/MM/YYYY | [Task description] | [Result/Outcome] | [Links/Documents] |
+| Date | Task | Result | Resources | Notes |
+|------|------|--------|-----------|-------|
+| 04/05/2026 | - Start learning Module 3<br>- Defer some Module 2 content<br>- Identify unclear concepts in Module 2 for later review | - Successfully started Module 3<br>- Made strategic decision to move forward<br>- Documented Module 2 topics to revisit<br>- Will return to Module 2 when concepts are clearer | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Started Module 3, deferred some Module 2 content |
 
 ### Knowledge Gained:
 
-* **[Topic 1]**: Brief description of what you learned
-* **[Topic 2]**: Brief description of what you learned
+* **Module 3 Introduction**: Initial understanding of Module 3 concepts and structure
+* **Learning Strategy**: Recognized when to move forward and when to revisit topics
+* **Self-awareness**: Identified specific areas in Module 2 needing further clarification
 
 ### Achievements:
 
-* [Achievement 1]
-* [Achievement 2]
+* Made strategic learning decision to progress to Module 3
+* Maintained learning momentum despite challenges
+* Documented areas for future review
 
 ### Challenges & Solutions:
 
-* **Challenge**: [Description of the challenge]
-  * **Solution**: [How you solved it]
+* **Challenge**: Some Module 2 concepts remain unclear
+  * **Solution**: Decided to move forward with Module 3 and plan to revisit Module 2 topics when understanding improves
 
 ### Resources & References:
 
-* [Link to documentation]
-* [Link to tutorial]
+* [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)
+* [Cloud Journey](https://cloudjourney.awsstudygroup.com)
+* [Discord Lamentum](https://discord.gg/yjFh7dNq)
+* [GitHub Worklog Repository](https://github.com/NTL0210/FACJ_Worklog)
