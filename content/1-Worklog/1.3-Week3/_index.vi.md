@@ -18,6 +18,7 @@ pre: " <b> 1.3. </b> "
 | Ngày | Công việc | Kết quả | Tài liệu | Ghi chú |
 |------|-----------|---------|----------|---------|
 | 04/05/2026 | - Bắt đầu học Module 3<br>- Tạm hoãn một phần nội dung Module 2<br>- Xác định các khái niệm chưa rõ trong Module 2 để xem lại sau | - Bắt đầu thành công Module 3<br>- Đưa ra quyết định chiến lược để tiến lên<br>- Ghi chép các chủ đề Module 2 cần xem lại<br>- Sẽ quay lại Module 2 khi các khái niệm rõ ràng hơn | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Bắt đầu Module 3, tạm hoãn một phần Module 2 |
+| 05/05/2026 | - Tiếp tục học và nghiên cứu lý thuyết Module 3<br>- Nghiên cứu sâu các khái niệm Module 3<br>- Học tài liệu và tư liệu Module 3 | - Hiểu sâu hơn về lý thuyết Module 3<br>- Tiến triển tốt với nội dung Module 3<br>- Xây dựng nền tảng lý thuyết vững chắc<br>- Chuẩn bị cho các bài tập thực hành | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Tiếp tục nghiên cứu lý thuyết Module 3 |
 
 ### Kiến thức đã học:
 

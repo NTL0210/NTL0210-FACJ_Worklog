@@ -18,6 +18,7 @@ pre: " <b> 1.3. </b> "
 | Date | Task | Result | Resources | Notes |
 |------|------|--------|-----------|-------|
 | 04/05/2026 | - Start learning Module 3<br>- Defer some Module 2 content<br>- Identify unclear concepts in Module 2 for later review | - Successfully started Module 3<br>- Made strategic decision to move forward<br>- Documented Module 2 topics to revisit<br>- Will return to Module 2 when concepts are clearer | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Started Module 3, deferred some Module 2 content |
+| 05/05/2026 | - Continue learning and researching Module 3 theory<br>- Deep dive into Module 3 concepts<br>- Study Module 3 documentation and materials | - Gained deeper understanding of Module 3 theory<br>- Progressing well with Module 3 content<br>- Building solid theoretical foundation<br>- Preparing for practical exercises | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Continuing Module 3 theory study |
 
 ### Knowledge Gained:
 
