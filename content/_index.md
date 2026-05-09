@@ -33,4 +33,5 @@ chapter: false
 
 1. [Worklog](1-Worklog/)
 2. [Proposal](2-Proposal/)
-3. [Self-evaluation](6-Self-evaluation/)
+3. [Events Participated](4-EventParticipated/)
+4. [Self-evaluation](6-Self-evaluation/)
