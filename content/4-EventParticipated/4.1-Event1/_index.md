@@ -76,6 +76,9 @@ This event was incredibly valuable for my internship journey. The speakers provi
 
 The workshop organization tips will be useful if I ever need to share knowledge with others or conduct training sessions. Most importantly, the career development session helped me understand what skills and mindset I need to develop beyond technical knowledge.
 
+![Event Photo](/images/Event1.jpg)
+*Group photo with fellow attendees at the AWS Study Group Workshop*
+
 ## Networking Opportunities
 
 * Connected with AWS Study Group admins and community members
