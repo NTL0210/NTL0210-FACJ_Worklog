@@ -1,125 +1,139 @@
 [
 {
-	"uri": "http://localhost:1313/",
+	"uri": "http://localhost:1313/FACJ_Worklog/4-eventparticipated/4.1-event1/",
+	"title": "AWS Study Group Workshop - AI in Development",
+	"tags": [],
+	"description": "",
+	"content": "Event Information Event Name: AWS Study Group Workshop - AI in Development Lifecycle\nDate \u0026amp; Time: May 9, 2026\nLocation: 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City\nRole: Attendee\nEvent Objectives The event focused on several key objectives:\nWorkshop Organization: Sharing experiences and introducing how to organize effective AWS workshops AWS Technologies: Providing guidance on AWS technologies and best practices AI in Development: Demonstrating how AI is supporting nearly the entire programming and application development lifecycle Speakers The event featured presentations from experienced AWS community members:\nAnh Long (Admin)\nTopic: \u0026ldquo;How to Get Addicted to Learning Like Social Media\u0026rdquo; Shared strategies for building sustainable learning habits Anh Thịnh (Admin)\nTopic: \u0026ldquo;Automated Prompt Engineering: Enhancing LLM Output Quality\u0026rdquo; Explored techniques for improving AI-generated content Anh Khang (Admin)\nTopic: \u0026ldquo;Why You Haven\u0026rsquo;t Started Working Yet\u0026rdquo; Discussed career development and job readiness Female Speaker (Software Developer)\nTopic: \u0026ldquo;BMAD\u0026rdquo; (Build, Measure, Analyze, Deploy) Covered modern development methodologies Key Takeaways 1. Learning Habits and Motivation Learned strategies to make learning as engaging as social media Understood the importance of consistent learning habits Discovered techniques to maintain motivation in technical learning 2. AI-Powered Development Gained insights into how AI tools support the entire development lifecycle Learned about automated prompt engineering techniques Understood how to leverage LLMs effectively in development work 3. Career Development Received guidance on preparing for professional work Understood the gap between learning and job readiness Learned about industry expectations and requirements 4. Modern Development Practices Explored the BMAD methodology Understood the importance of measurement and analysis in development Learned about continuous deployment practices Personal Reflections This event was incredibly valuable for my internship journey. The speakers provided practical insights that directly apply to my current learning path with AWS. The session on AI in development was particularly relevant, as it showed me how the tools I\u0026rsquo;m learning to use (like Kiro) fit into the broader landscape of AI-assisted development.\nThe workshop organization tips will be useful if I ever need to share knowledge with others or conduct training sessions. Most importantly, the career development session helped me understand what skills and mindset I need to develop beyond technical knowledge.\nGroup photo with fellow attendees at the AWS Study Group Workshop\nNetworking Opportunities Connected with AWS Study Group admins and community members Met fellow interns and learners in the AWS ecosystem Exchanged contact information for future collaboration Joined discussions about ongoing projects and learning paths Action Items Based on the event, I plan to:\nApply the learning habit strategies to my daily study routine Experiment with prompt engineering techniques in my work with AI tools Focus on building practical skills alongside theoretical knowledge Explore the BMAD methodology in my future projects Stay connected with the AWS Study Group community Resources AWS Study Group Facebook Discord Lamentum Event slides and materials (shared via Discord) Overall Rating: ⭐⭐⭐⭐⭐ (5/5)\nThis event significantly enhanced my understanding of both technical and professional development in the AWS ecosystem.\n"
+},
+{
+	"uri": "http://localhost:1313/FACJ_Worklog/",
 	"title": "Internship Report",
 	"tags": [],
 	"description": "",
-	"content": "Internship Report Student Information: Full Name: Nguyễn Tấn Lộc\nPhone Number: 0965438184\nEmail: locnguyetan0210@gmail.com\nUniversity: Ho Chi Minh City University of Technology (HUTECH)\nMajor: Software Engineering\nClass: 22DTHD7\nInternship Company: Amazon Web Services Vietnam Co., Ltd.\nInternship Position: FCJ Cloud Intern\nInternship Duration: From April 17, 2026 to July 10, 2026\nReport Content Worklog Proposal Self-evaluation "
+	"content": "Internship Report Student Information: Full Name: Nguyễn Tấn Lộc\nPhone Number: 0965438184\nEmail: locnguyetan0210@gmail.com\nUniversity: Ho Chi Minh City University of Technology (HUTECH)\nMajor: Software Engineering\nClass: 22DTHD7\nInternship Company: Amazon Web Services Vietnam Co., Ltd.\nInternship Position: FCJ Cloud Intern\nInternship Duration: From April 17, 2026 to July 10, 2026\nReport Content Worklog Proposal Events Participated Self-evaluation "
 },
 {
-	"uri": "http://localhost:1313/1-worklog/1.1-week1/",
+	"uri": "http://localhost:1313/FACJ_Worklog/1-worklog/1.1-week1/",
 	"title": "Week 1 Worklog",
 	"tags": [],
 	"description": "",
-	"content": "Week 1 Objectives: Get acquainted with FCJ Cloud Intern team members Participate in the kickoff session and understand the internship program Research and complete basic lab exercises Establish communication channel with the team Prepare JavaScript knowledge for the project Create repository and write worklog Research Hugo and related technologies Tasks Completed: Date Task Result Resources Notes 17/04/2026 - Get acquainted with team members\n- Participate in kickoff and answer questions from Mr. Hưng\n- Research lab materials\n- Complete AWS account creation lab\n- Complete Kiro installation lab - Connected with other interns\n- Understood roadmap and requirements\n- Created AWS Free Tier account\n- Successfully installed and configured Kiro AWS Study Group YouTube\nCloud Journey Onboarding and environment setup 18/04/2026 - Continue research and learning\n- Create Discord server \u0026ldquo;Lamentum\u0026rdquo; for team communication - Gained more knowledge about AWS\n- Successfully created and setup Discord server\n- Invited team members to join AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum Team communication channel setup 19/04/2026 - Continue research on YouTube\n- Search and learn advanced JavaScript content to prepare for the project - Mastered advanced JavaScript knowledge\n- Ready to apply in real projects AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum Project preparation 20/04/2026 - Create GitHub repository for worklog\n- Write worklog for previous days\n- Continue research on Hugo and related technologies\n- Discuss project ideas with team members - Successfully created FACJ_Worklog repo\n- Completed worklog for past days\n- Understood Hugo static site generator\n- Have initial project ideas AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Documentation and brainstorming Knowledge Gained: AWS Account Setup: How to create and configure AWS Free Tier account Kiro IDE: Familiarized with Kiro - AI-powered development tool FCJ Program: Understanding of First Cloud Journey program structure Team Collaboration: Teamwork and communication skills Discord Server Management: Creating and managing Discord server for team Advanced JavaScript: Advanced JavaScript knowledge to prepare for the project Hugo Static Site Generator: How to use Hugo to create static websites Git \u0026amp; GitHub: Version control and documentation management Achievements: Completed all assigned labs on the first day Established good connections with team members Ready for upcoming weeks with fully setup work environment Set up official communication channel for the team via Discord Proactively learned advanced JavaScript to prepare for the project Created repository and started documenting internship process Researched and mastered Hugo framework Challenges \u0026amp; Solutions: Challenge: First time working with AWS and new tools Solution: Carefully read documentation and asked experienced team members for help Challenge: Not familiar with Hugo and static site structure Solution: Studied documentation and practiced creating worklog Resources \u0026amp; References: AWS Study Group YouTube Cloud Journey Discord Lamentum GitHub Worklog Repository Hugo Documentation "
+	"content": "Week 1 Objectives: Get acquainted with FCJ Cloud Intern team members Participate in the kickoff session and understand the internship program Research and complete basic lab exercises Establish communication channel with the team Prepare JavaScript knowledge for the project Create repository and write worklog Research Hugo and related technologies Tasks Completed: Date Task Result Resources Notes 17/04/2026 - Get acquainted with team members\n- Participate in kickoff and answer questions from Mr. Hưng\n- Research lab materials\n- Complete AWS account creation lab\n- Complete Kiro installation lab - Connected with other interns\n- Understood roadmap and requirements\n- Created AWS Free Tier account\n- Successfully installed and configured Kiro AWS Study Group YouTube\nCloud Journey Onboarding and environment setup 18/04/2026 - Continue research and learning\n- Create Discord server \u0026ldquo;Lamentum\u0026rdquo; for team communication - Gained more knowledge about AWS\n- Successfully created and setup Discord server\n- Invited team members to join AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum Team communication channel setup 19/04/2026 - Continue research on YouTube\n- Search and learn advanced JavaScript content to prepare for the project - Mastered advanced JavaScript knowledge\n- Ready to apply in real projects AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum Project preparation 20/04/2026 - Create GitHub repository for worklog\n- Write worklog for previous days\n- Continue research on Hugo and related technologies\n- Discuss project ideas with team members - Successfully created FACJ_Worklog repo\n- Completed worklog for past days\n- Understood Hugo static site generator\n- Have initial project ideas AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Documentation and brainstorming 21/04/2026 - Research more about Draw.io\n- Continue studying lab exercises - Mastered Draw.io for architecture diagrams\n- Completed more AWS labs AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Diagram design and lab practice 22/04/2026 - Personal leave for private matters\n- No learning activities - Completed necessary personal tasks\n- Prepared mentally for the upcoming week - Personal leave day 23/04/2026 - Continue studying and completing labs\n- Completed nearly half of Module 1 of the program - Made significant progress in Module 1\n- Gained deeper understanding of AWS fundamentals\n- Ready to continue with remaining Module 1 content AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Module 1 progress 24/04/2026 - Complete research and study of Module 1\n- Finish Lab 09-04 of AWS Study Group - Successfully completed all Module 1 content\n- Finished Lab 09-04\n- Mastered fundamental AWS concepts\n- Ready to move on to Module 2 AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Module 1 completion 25/04/2026 - Start learning Module 2\n- Prepare for Week 2 activities - Gained initial understanding of Module 2 content\n- Prepared materials and mindset for Week 2\n- Reviewed Week 1 achievements AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Module 2 introduction and Week 2 preparation 26/04/2026 - Continue in-depth research on Module 2\n- Study both theory and practice\n- Ensure readiness for Module 2 next week - Deepened understanding of Module 2 theory\n- Practiced hands-on exercises\n- Fully prepared and confident for Week 2\n- Successfully completed Week 1 AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Week 1 final day - Module 2 preparation Knowledge Gained: AWS Account Setup: How to create and configure AWS Free Tier account Kiro IDE: Familiarized with Kiro - AI-powered development tool FCJ Program: Understanding of First Cloud Journey program structure Team Collaboration: Teamwork and communication skills Discord Server Management: Creating and managing Discord server for team Advanced JavaScript: Advanced JavaScript knowledge to prepare for the project Hugo Static Site Generator: How to use Hugo to create static websites Git \u0026amp; GitHub: Version control and documentation management Draw.io: Using Draw.io for architecture diagrams and design Achievements: Completed all assigned labs on the first day Established good connections with team members Ready for upcoming weeks with fully setup work environment Set up official communication channel for the team via Discord Proactively learned advanced JavaScript to prepare for the project Created repository and started documenting internship process Researched and mastered Hugo framework Challenges \u0026amp; Solutions: Challenge: First time working with AWS and new tools Solution: Carefully read documentation and asked experienced team members for help Challenge: Not familiar with Hugo and static site structure Solution: Studied documentation and practiced creating worklog Resources \u0026amp; References: AWS Study Group YouTube Cloud Journey Discord Lamentum GitHub Worklog Repository Hugo Documentation "
 },
 {
-	"uri": "http://localhost:1313/1-worklog/",
+	"uri": "http://localhost:1313/FACJ_Worklog/1-worklog/",
 	"title": "Worklog",
 	"tags": [],
 	"description": "",
 	"content": "Worklog This is my worklog documenting my 12-week internship journey at Amazon Web Services Vietnam as an FCJ Cloud Intern.\nOverview Throughout the 12-week internship, I experienced a learning and development journey in AWS Cloud Computing, from basic knowledge to real-world projects.\nWeekly Content Week 1: First Week - Onboarding and Getting Started\nWeek 2: Week 2\nWeek 3: Week 3\nWeek 4: Week 4\nWeek 5: Week 5\nWeek 6: Week 6\nWeek 7: Week 7\nWeek 8: Week 8\nWeek 9: Week 9\nWeek 10: Week 10\nWeek 11: Week 11\nWeek 12: Week 12\n"
 },
 {
-	"uri": "http://localhost:1313/2-proposal/",
+	"uri": "http://localhost:1313/FACJ_Worklog/1-worklog/1.2-week2/",
+	"title": "Week 2 Worklog",
+	"tags": [],
+	"description": "",
+	"content": "Week 2 Objectives: Deep dive into Module 2 theory and concepts Master AWS Virtual Private Cloud (VPC) fundamentals Understand VPC Security and Multi-VPC features Learn VPN, DirectConnect, LoadBalancer, and Extra Resources Complete Module 2 labs and exercises Tasks Completed: Date Task Result Resources Notes 27/04/2026 - Continue in-depth research on Module 2 theory\n- Study AWS Virtual Private Cloud (VPC)\n- Study VPC Security and Multi-VPC features\n- Study VPN, DirectConnect, LoadBalancer, and Extra Resources - Gained deeper understanding of VPC concepts\n- Clarified VPC Security mechanisms\n- Understood Multi-VPC architecture\n- Learned about VPN and DirectConnect\n- Understood LoadBalancer functionality AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Module 2 theory deep dive 28/04/2026 - Start hands-on practice with Module 2 labs\n- Apply theoretical knowledge to practical exercises\n- Identify areas needing further research - Began practical implementation of VPC concepts\n- Encountered some minor challenges during practice\n- Identified specific areas requiring additional study\n- Made progress but not yet fully proficient AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Module 2 hands-on practice - initial stage 29/04/2026 - Working on Module 2 Lab 03-03\n- Complete all exercises in Lab 03-03\n- Apply VPC and networking concepts in practice - Successfully working through Lab 03-03\n- Applying theoretical knowledge to hands-on scenarios\n- Gaining practical experience with AWS networking\n- Building confidence with Module 2 content AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Module 2 Lab 03-03 in progress 30/04/2026 - Complete Module 2 Lab 03-04\n- Start learning Module 2 Lab 10 theory\n- Review similarities with Module 1 - Successfully completed Lab 03-04\n- Recognized similarities with Module 1 content\n- Understood the differences between modules\n- Started studying Lab 10 theory\n- Not yet started Lab 10 hands-on practice AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Completed Lab 03-04, studying Lab 10 theory 01/05/2026 - Personal day off\n- Continue self-study of AWS theory - Took personal leave for private matters\n- Maintained learning momentum by studying AWS theory\n- Prepared mentally for upcoming work AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Personal day off with self-study 02/05/2026 - Personal day off\n- Continue watching Module 2 Lab 20 practice demonstrations - Took personal leave for private matters\n- Watched Lab 20 practice videos and demonstrations\n- Learned implementation approaches for Lab 20\n- Prepared for hands-on practice AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Personal day off, studying Lab 20 practice 03/05/2026 - Day off for personal matters\n- No learning activities - Took complete day off for personal matters\n- Rested and recharged\n- Prepared mentally for next week - Full day off Knowledge Gained: AWS VPC: Understanding of Virtual Private Cloud architecture and components VPC Security: Security groups, NACLs, and VPC security best practices Multi-VPC Features: VPC peering, transit gateway, and multi-VPC architectures VPN \u0026amp; DirectConnect: Hybrid cloud connectivity options LoadBalancer: Application, Network, and Gateway Load Balancers Extra Resources: Additional AWS networking resources and services Achievements: Successfully clarified complex Module 2 networking concepts Built strong theoretical foundation for VPC and networking Ready to move forward with practical labs Challenges \u0026amp; Solutions: Challenge: Module 2 theory was complex and unclear initially Solution: Dedicated time to research each topic thoroughly and reviewed multiple resources Resources \u0026amp; References: AWS Study Group YouTube Cloud Journey Discord Lamentum GitHub Worklog Repository "
+},
+{
+	"uri": "http://localhost:1313/FACJ_Worklog/2-proposal/",
 	"title": "Proposal",
 	"tags": [],
 	"description": "",
 	"content": "In this section, you need to summarize the content of the workshop or project that you plan to do.\n[Your Project Title] 1. Executive Summary [Add your content here]\n2. Problem Statement [Add your content here]\n3. Solution Architecture [Add your content here]\n4. Technical Implementation [Add your content here]\n5. Timeline \u0026amp; Milestones [Add your content here]\n6. Budget Estimation [Add your content here]\n7. Risk Assessment [Add your content here]\n8. Expected Outcomes [Add your content here]\n"
 },
 {
-	"uri": "http://localhost:1313/1-worklog/1.2-week2/",
-	"title": "Week 2 Worklog",
+	"uri": "http://localhost:1313/FACJ_Worklog/1-worklog/1.3-week3/",
+	"title": "Week 3 Worklog",
 	"tags": [],
 	"description": "",
-	"content": "Week 2 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
+	"content": "Week 3 Objectives: Move forward with Module 3 content Identify and defer unclear Module 2 topics for later review Build foundation for Module 3 concepts Plan to revisit Module 2 when ready Tasks Completed: Date Task Result Resources Notes 04/05/2026 - Start learning Module 3\n- Defer some Module 2 content\n- Identify unclear concepts in Module 2 for later review - Successfully started Module 3\n- Made strategic decision to move forward\n- Documented Module 2 topics to revisit\n- Will return to Module 2 when concepts are clearer AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Started Module 3, deferred some Module 2 content 05/05/2026 - Continue learning and researching Module 3 theory\n- Deep dive into Module 3 concepts\n- Study Module 3 documentation and materials - Gained deeper understanding of Module 3 theory\n- Progressing well with Module 3 content\n- Building solid theoretical foundation\n- Preparing for practical exercises AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Continuing Module 3 theory study 06/05/2026 - Complete Module 3 theory study\n- Review all Module 3 theoretical concepts\n- Prepare for Module 3 practical exercises - Successfully completed Module 3 theory\n- Mastered all theoretical concepts\n- Ready to start hands-on practice\n- Built strong foundation for Module 3 labs AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Completed Module 3 theory 07/05/2026 - Complete Module 3 Lab 13\n- Skip remaining Module 3 labs\n- Start preparing for Module 4 theory - Successfully completed Lab 13\n- Made strategic decision to move to Module 4\n- Recognized knowledge gaps requiring more foundation\n- Started preparing for Module 4 theory study AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Completed Lab 13, preparing for Module 4 08/05/2026 - Complete Module 4 theory study\n- Review all Module 4 theoretical concepts\n- Prepare for Module 4 practical exercises - Successfully completed Module 4 theory\n- Mastered all theoretical concepts\n- Built strong foundation for Module 4\n- Ready to start hands-on practice AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Completed Module 4 theory 09/05/2026 - Attend AWS Study Group event at Bitexco Tower\n- Learn about workshop organization and AWS technologies\n- Participate in sessions on AI in development lifecycle - Gained insights on workshop organization\n- Learned about AI\u0026rsquo;s role in application development\n- Networked with AWS community members\n- Attended sessions on learning habits, prompt engineering, and career development AWS Study Group Event\nDiscord Lamentum\nGitHub Worklog AWS Event participation 10/05/2026 - Day off for rest and personal matters\n- No learning activities - Took complete day off\n- Rested and recharged after the event\n- Prepared mentally for the upcoming week - Full day off Knowledge Gained: Module 3 Introduction: Initial understanding of Module 3 concepts and structure Learning Strategy: Recognized when to move forward and when to revisit topics Self-awareness: Identified specific areas in Module 2 needing further clarification Achievements: Made strategic learning decision to progress to Module 3 Maintained learning momentum despite challenges Documented areas for future review Challenges \u0026amp; Solutions: Challenge: Some Module 2 concepts remain unclear Solution: Decided to move forward with Module 3 and plan to revisit Module 2 topics when understanding improves Resources \u0026amp; References: AWS Study Group YouTube Cloud Journey Discord Lamentum GitHub Worklog Repository "
 },
 {
-	"uri": "http://localhost:1313/6-self-evaluation/",
+	"uri": "http://localhost:1313/FACJ_Worklog/6-self-evaluation/",
 	"title": "Self-evaluation",
 	"tags": [],
 	"description": "",
 	"content": "Throughout my internship at [Company Name] from [Start Date] to [End Date], I had the opportunity to learn, practice, and apply the knowledge I gained at university to a real work environment.\nTo objectively reflect on my internship process, I would like to evaluate myself based on the following criteria:\nNo. Criteria Description Excellent Good Average 1 Professional Knowledge \u0026amp; Skills Understanding of the field, applying knowledge in practice, tool usage skills, work quality ☐ ☐ ☐ 2 Learning Ability Absorbing new knowledge, learning quickly ☐ ☐ ☐ 3 Proactiveness Self-learning, taking on tasks without waiting for instructions ☐ ☐ ☐ 4 Sense of Responsibility Completing work on time, ensuring quality ☐ ☐ ☐ 5 Discipline Following schedules, regulations, work processes ☐ ☐ ☐ 6 Growth Mindset Willing to receive feedback and improve oneself ☐ ☐ ☐ 7 Communication Presenting ideas, reporting work clearly ☐ ☐ ☐ 8 Teamwork Working effectively with colleagues, participating in teams ☐ ☐ ☐ 9 Professional Conduct Respecting colleagues, partners, work environment ☐ ☐ ☐ 10 Problem-Solving Thinking Identifying problems, proposing solutions, creativity ☐ ☐ ☐ 11 Contribution to Project/Organization Work effectiveness, improvement initiatives, team recognition ☐ ☐ ☐ 12 Overall Overall assessment of the entire internship process ☐ ☐ ☐ Areas for Improvement [Add areas you need to improve] "
 },
 {
-	"uri": "http://localhost:1313/1-worklog/1.3-week3/",
-	"title": "Week 3 Worklog",
+	"uri": "http://localhost:1313/FACJ_Worklog/4-eventparticipated/",
+	"title": "Events Participated",
 	"tags": [],
 	"description": "",
-	"content": "Week 3 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
+	"content": "Throughout my internship, I participated in various AWS community events and workshops to expand my knowledge and network with professionals in the field.\nEvent List Event 1: AWS Study Group Workshop - AI in Development\n"
 },
 {
-	"uri": "http://localhost:1313/1-worklog/1.4-week4/",
+	"uri": "http://localhost:1313/FACJ_Worklog/1-worklog/1.4-week4/",
 	"title": "Week 4 Worklog",
 	"tags": [],
 	"description": "",
 	"content": "Week 4 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
 },
 {
-	"uri": "http://localhost:1313/1-worklog/1.5-week5/",
+	"uri": "http://localhost:1313/FACJ_Worklog/1-worklog/1.5-week5/",
 	"title": "Week 5 Worklog",
 	"tags": [],
 	"description": "",
 	"content": "Week 5 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
 },
 {
-	"uri": "http://localhost:1313/1-worklog/1.6-week6/",
+	"uri": "http://localhost:1313/FACJ_Worklog/1-worklog/1.6-week6/",
 	"title": "Week 6 Worklog",
 	"tags": [],
 	"description": "",
 	"content": "Week 6 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
 },
 {
-	"uri": "http://localhost:1313/1-worklog/1.7-week7/",
+	"uri": "http://localhost:1313/FACJ_Worklog/1-worklog/1.7-week7/",
 	"title": "Week 7 Worklog",
 	"tags": [],
 	"description": "",
 	"content": "Week 7 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
 },
 {
-	"uri": "http://localhost:1313/1-worklog/1.8-week8/",
+	"uri": "http://localhost:1313/FACJ_Worklog/1-worklog/1.8-week8/",
 	"title": "Week 8 Worklog",
 	"tags": [],
 	"description": "",
 	"content": "Week 8 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
 },
 {
-	"uri": "http://localhost:1313/1-worklog/1.9-week9/",
+	"uri": "http://localhost:1313/FACJ_Worklog/1-worklog/1.9-week9/",
 	"title": "Week 9 Worklog",
 	"tags": [],
 	"description": "",
 	"content": "Week 9 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
 },
 {
-	"uri": "http://localhost:1313/1-worklog/1.10-week10/",
+	"uri": "http://localhost:1313/FACJ_Worklog/1-worklog/1.10-week10/",
 	"title": "Week 10 Worklog",
 	"tags": [],
 	"description": "",
 	"content": "Week 10 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
 },
 {
-	"uri": "http://localhost:1313/1-worklog/1.11-week11/",
+	"uri": "http://localhost:1313/FACJ_Worklog/1-worklog/1.11-week11/",
 	"title": "Week 11 Worklog",
 	"tags": [],
 	"description": "",
 	"content": "Week 11 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
 },
 {
-	"uri": "http://localhost:1313/1-worklog/1.12-week12/",
+	"uri": "http://localhost:1313/FACJ_Worklog/1-worklog/1.12-week12/",
 	"title": "Week 12 Worklog",
 	"tags": [],
 	"description": "",
 	"content": "Week 12 Objectives: [Add your objectives here] Tasks Completed: Date Task Result Notes DD/MM/YYYY [Task description] [Result/Outcome] [Links/Documents] Knowledge Gained: [Topic 1]: Brief description of what you learned [Topic 2]: Brief description of what you learned Achievements: [Achievement 1] [Achievement 2] Challenges \u0026amp; Solutions: Challenge: [Description of the challenge] Solution: [How you solved it] Resources \u0026amp; References: [Link to documentation] [Link to tutorial] "
 },
 {
-	"uri": "http://localhost:1313/categories/",
+	"uri": "http://localhost:1313/FACJ_Worklog/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://localhost:1313/tags/",
+	"uri": "http://localhost:1313/FACJ_Worklog/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",

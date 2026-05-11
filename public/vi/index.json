@@ -1,125 +1,139 @@
 [
 {
-	"uri": "http://localhost:1313/vi/",
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/4-eventparticipated/4.1-event1/",
+	"title": "AWS Study Group Workshop - AI trong Phát triển",
+	"tags": [],
+	"description": "",
+	"content": "Thông tin sự kiện Tên sự kiện: AWS Study Group Workshop - AI trong Vòng đời Phát triển\nNgày \u0026amp; Giờ: 09/05/2026\nĐịa điểm: Tầng 26, Tòa nhà Bitexco, 02 Hải Triều, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh\nVai trò: Người tham dự\nMục tiêu sự kiện Sự kiện tập trung vào một số mục tiêu chính:\nTổ chức Workshop: Chia sẻ kinh nghiệm và giới thiệu cách tổ chức workshop AWS hiệu quả Công nghệ AWS: Cung cấp hướng dẫn về các công nghệ và best practices của AWS AI trong Phát triển: Cho thấy cách AI đang hỗ trợ gần như toàn bộ vòng đời lập trình và phát triển ứng dụng Diễn giả Sự kiện có các bài thuyết trình từ các thành viên giàu kinh nghiệm của cộng đồng AWS:\nAnh Long (Admin)\nChủ đề: \u0026ldquo;Làm sao để nghiện học tập như nghiện mạng xã hội\u0026rdquo; Chia sẻ chiến lược xây dựng thói quen học tập bền vững Anh Thịnh (Admin)\nChủ đề: \u0026ldquo;Automated Prompt Engineering: Enhancing LLM Output Quality\u0026rdquo; Khám phá các kỹ thuật cải thiện nội dung do AI tạo ra Anh Khang (Admin)\nChủ đề: \u0026ldquo;Tại sao bạn chưa đi làm\u0026rdquo; Thảo luận về phát triển sự nghiệp và sự sẵn sàng cho công việc Diễn giả nữ (Software Developer)\nChủ đề: \u0026ldquo;BMAD\u0026rdquo; (Build, Measure, Analyze, Deploy) Đề cập đến các phương pháp phát triển hiện đại Những điểm chính rút ra 1. Thói quen học tập và Động lực Học được các chiến lược để làm cho việc học hấp dẫn như mạng xã hội Hiểu tầm quan trọng của thói quen học tập nhất quán Khám phá các kỹ thuật duy trì động lực trong học tập kỹ thuật 2. Phát triển hỗ trợ bởi AI Có được hiểu biết về cách các công cụ AI hỗ trợ toàn bộ vòng đời phát triển Học về các kỹ thuật prompt engineering tự động Hiểu cách tận dụng LLM hiệu quả trong công việc phát triển 3. Phát triển sự nghiệp Nhận được hướng dẫn về chuẩn bị cho công việc chuyên nghiệp Hiểu khoảng cách giữa học tập và sẵn sàng cho công việc Học về kỳ vọng và yêu cầu của ngành 4. Thực hành phát triển hiện đại Khám phá phương pháp BMAD Hiểu tầm quan trọng của đo lường và phân tích trong phát triển Học về các thực hành triển khai liên tục Suy ngẫm cá nhân Sự kiện này vô cùng có giá trị cho hành trình thực tập của tôi. Các diễn giả đã cung cấp những hiểu biết thực tế áp dụng trực tiếp vào con đường học tập hiện tại của tôi với AWS. Phiên về AI trong phát triển đặc biệt liên quan, vì nó cho tôi thấy cách các công cụ tôi đang học sử dụng (như Kiro) phù hợp với bối cảnh rộng lớn hơn của phát triển hỗ trợ bởi AI.\nCác mẹo tổ chức workshop sẽ hữu ích nếu tôi cần chia sẻ kiến thức với người khác hoặc tiến hành các buổi đào tạo. Quan trọng nhất, phiên phát triển sự nghiệp đã giúp tôi hiểu những kỹ năng và tư duy tôi cần phát triển ngoài kiến thức kỹ thuật.\nẢnh chụp nhóm với các người tham dự tại AWS Study Group Workshop\nCơ hội kết nối Kết nối với các admin và thành viên cộng đồng AWS Study Group Gặp gỡ các intern và người học khác trong hệ sinh thái AWS Trao đổi thông tin liên lạc để hợp tác trong tương lai Tham gia thảo luận về các dự án và lộ trình học tập đang diễn ra Kế hoạch hành động Dựa trên sự kiện, tôi dự định:\nÁp dụng các chiến lược thói quen học tập vào thói quen học hàng ngày Thử nghiệm các kỹ thuật prompt engineering trong công việc với công cụ AI Tập trung xây dựng kỹ năng thực tế cùng với kiến thức lý thuyết Khám phá phương pháp BMAD trong các dự án tương lai Duy trì kết nối với cộng đồng AWS Study Group Tài liệu tham khảo AWS Study Group Facebook Discord Lamentum Slides và tài liệu sự kiện (chia sẻ qua Discord) Đánh giá tổng thể: ⭐⭐⭐⭐⭐ (5/5)\nSự kiện này đã nâng cao đáng kể sự hiểu biết của tôi về cả phát triển kỹ thuật và chuyên nghiệp trong hệ sinh thái AWS.\n"
+},
+{
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/",
 	"title": "Báo cáo thực tập",
 	"tags": [],
 	"description": "",
-	"content": "Báo cáo thực tập Thông tin sinh viên: Họ và tên: Nguyễn Tấn Lộc\nSố điện thoại: 0965438184\nEmail: locnguyetan0210@gmail.com\nTrường: Đại học Công nghệ Thành phố Hồ Chí Minh (HUTECH)\nNgành: Công nghệ phần mềm\nLớp: 22DTHD7\nCông ty thực tập: Công ty TNHH Amazon Web Services Vietnam\nVị trí thực tập: FCJ Cloud Intern\nThời gian thực tập: Từ ngày 17/04/2026 đến ngày 10/07/2026\nNội dung báo cáo Nhật ký công việc Bản đề xuất Tự đánh giá "
+	"content": "Báo cáo thực tập Thông tin sinh viên: Họ và tên: Nguyễn Tấn Lộc\nSố điện thoại: 0965438184\nEmail: locnguyetan0210@gmail.com\nTrường: Đại học Công nghệ Thành phố Hồ Chí Minh (HUTECH)\nNgành: Công nghệ phần mềm\nLớp: 22DTHD7\nCông ty thực tập: Công ty TNHH Amazon Web Services Vietnam\nVị trí thực tập: FCJ Cloud Intern\nThời gian thực tập: Từ ngày 17/04/2026 đến ngày 10/07/2026\nNội dung báo cáo Nhật ký công việc Bản đề xuất Sự kiện đã tham gia Tự đánh giá "
 },
 {
-	"uri": "http://localhost:1313/vi/1-worklog/",
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/1-worklog/",
 	"title": "Nhật ký công việc",
 	"tags": [],
 	"description": "",
 	"content": "Nhật ký công việc Đây là nhật ký công việc của tôi trong suốt 12 tuần thực tập tại Amazon Web Services Vietnam với vai trò FCJ Cloud Intern.\nTổng quan Trong 12 tuần thực tập, tôi đã trải qua hành trình học tập và phát triển kỹ năng về AWS Cloud Computing, từ những kiến thức cơ bản đến các dự án thực tế.\nNội dung các tuần Tuần 1: Tuần đầu tiên - Làm quen và khởi đầu\nTuần 2: Tuần 2\nTuần 3: Tuần 3\nTuần 4: Tuần 4\nTuần 5: Tuần 5\nTuần 6: Tuần 6\nTuần 7: Tuần 7\nTuần 8: Tuần 8\nTuần 9: Tuần 9\nTuần 10: Tuần 10\nTuần 11: Tuần 11\nTuần 12: Tuần 12\n"
 },
 {
-	"uri": "http://localhost:1313/vi/1-worklog/1.1-week1/",
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/1-worklog/1.1-week1/",
 	"title": "Worklog Tuần 1",
 	"tags": [],
 	"description": "",
-	"content": "Mục tiêu tuần 1: Làm quen với các thành viên trong nhóm FCJ Cloud Intern Tham gia buổi kickoff và hiểu rõ về chương trình thực tập Nghiên cứu và hoàn thành các bài lab cơ bản Thiết lập kênh liên lạc với nhóm Chuẩn bị kiến thức JavaScript cho dự án Tạo repository và viết worklog Nghiên cứu Hugo và các công nghệ liên quan Công việc đã hoàn thành: Ngày Công việc Kết quả Tài liệu Ghi chú 17/04/2026 - Làm quen với các thành viên trong nhóm\n- Tham gia kickoff và trả lời câu hỏi của anh Hưng\n- Nghiên cứu các bài lab\n- Hoàn thành lab tạo tài khoản AWS\n- Hoàn thành lab cài đặt Kiro - Đã kết nối với các intern khác\n- Hiểu rõ lộ trình và yêu cầu\n- Đã tạo AWS Free Tier account\n- Đã cài đặt và cấu hình Kiro thành công AWS Study Group YouTube\nCloud Journey Buổi onboarding và setup môi trường 18/04/2026 - Tiếp tục nghiên cứu và học\n- Tạo Discord server \u0026ldquo;Lamentum\u0026rdquo; để liên lạc với các thành viên - Nắm vững thêm kiến thức về AWS\n- Đã tạo và setup Discord server thành công\n- Mời các thành viên tham gia AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum Thiết lập kênh giao tiếp nhóm 19/04/2026 - Tiếp tục nghiên cứu trên YouTube\n- Tìm kiếm và học các nội dung nâng cao về JavaScript để chuẩn bị cho dự án - Nắm vững thêm kiến thức JavaScript nâng cao\n- Sẵn sàng áp dụng vào dự án thực tế AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum Chuẩn bị kiến thức cho dự án 20/04/2026 - Tạo GitHub repository để đẩy worklog\n- Viết worklog cho các ngày trước\n- Tiếp tục nghiên cứu về Hugo và các công nghệ liên quan\n- Trao đổi với thành viên về ý tưởng lên đề tài - Đã tạo repo FACJ_Worklog thành công\n- Hoàn thành worklog cho các ngày đã qua\n- Hiểu rõ về Hugo static site generator\n- Có ý tưởng ban đầu cho đề tài AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Documentation và brainstorming Kiến thức đã học: AWS Account Setup: Cách tạo và cấu hình AWS Free Tier account Kiro IDE: Làm quen với Kiro - công cụ hỗ trợ phát triển với AI FCJ Program: Hiểu về cấu trúc chương trình First Cloud Journey Team Collaboration: Kỹ năng làm việc nhóm và giao tiếp Discord Server Management: Tạo và quản lý Discord server cho nhóm Advanced JavaScript: Các kiến thức JavaScript nâng cao để chuẩn bị cho dự án Hugo Static Site Generator: Cách sử dụng Hugo để tạo website tĩnh Git \u0026amp; GitHub: Quản lý version control và documentation Thành tựu: Hoàn thành đầy đủ các bài lab được giao trong ngày đầu tiên Tạo được kết nối tốt với các thành viên trong nhóm Sẵn sàng cho các tuần tiếp theo với môi trường làm việc đã được setup Thiết lập kênh liên lạc chính thức cho nhóm qua Discord Chủ động học thêm JavaScript nâng cao để chuẩn bị cho dự án Tạo repository và bắt đầu document hóa quá trình thực tập Nghiên cứu và nắm vững Hugo framework Khó khăn \u0026amp; Giải pháp: Khó khăn: Lần đầu tiếp xúc với AWS và các công cụ mới Giải pháp: Đọc kỹ tài liệu hướng dẫn và hỏi các thành viên có kinh nghiệm Khó khăn: Chưa quen với Hugo và cấu trúc static site Giải pháp: Nghiên cứu documentation và thực hành tạo worklog Tài liệu tham khảo: AWS Study Group YouTube Cloud Journey Discord Lamentum GitHub Worklog Repository Hugo Documentation "
+	"content": "Mục tiêu tuần 1: Làm quen với các thành viên trong nhóm FCJ Cloud Intern Tham gia buổi kickoff và hiểu rõ về chương trình thực tập Nghiên cứu và hoàn thành các bài lab cơ bản Thiết lập kênh liên lạc với nhóm Chuẩn bị kiến thức JavaScript cho dự án Tạo repository và viết worklog Nghiên cứu Hugo và các công nghệ liên quan Công việc đã hoàn thành: Ngày Công việc Kết quả Tài liệu Ghi chú 17/04/2026 - Làm quen với các thành viên trong nhóm\n- Tham gia kickoff và trả lời câu hỏi của anh Hưng\n- Nghiên cứu các bài lab\n- Hoàn thành lab tạo tài khoản AWS\n- Hoàn thành lab cài đặt Kiro - Đã kết nối với các intern khác\n- Hiểu rõ lộ trình và yêu cầu\n- Đã tạo AWS Free Tier account\n- Đã cài đặt và cấu hình Kiro thành công AWS Study Group YouTube\nCloud Journey Buổi onboarding và setup môi trường 18/04/2026 - Tiếp tục nghiên cứu và học\n- Tạo Discord server \u0026ldquo;Lamentum\u0026rdquo; để liên lạc với các thành viên - Nắm vững thêm kiến thức về AWS\n- Đã tạo và setup Discord server thành công\n- Mời các thành viên tham gia AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum Thiết lập kênh giao tiếp nhóm 19/04/2026 - Tiếp tục nghiên cứu trên YouTube\n- Tìm kiếm và học các nội dung nâng cao về JavaScript để chuẩn bị cho dự án - Nắm vững thêm kiến thức JavaScript nâng cao\n- Sẵn sàng áp dụng vào dự án thực tế AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum Chuẩn bị kiến thức cho dự án 20/04/2026 - Tạo GitHub repository để đẩy worklog\n- Viết worklog cho các ngày trước\n- Tiếp tục nghiên cứu về Hugo và các công nghệ liên quan\n- Trao đổi với thành viên về ý tưởng lên đề tài - Đã tạo repo FACJ_Worklog thành công\n- Hoàn thành worklog cho các ngày đã qua\n- Hiểu rõ về Hugo static site generator\n- Có ý tưởng ban đầu cho đề tài AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Documentation và brainstorming 21/04/2026 - Nghiên cứu rõ hơn về Draw.io\n- Tiếp tục nghiên cứu các bài lab - Nắm vững cách sử dụng Draw.io để vẽ sơ đồ kiến trúc\n- Hoàn thành thêm các bài lab AWS AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Diagram design và lab practice 22/04/2026 - Nghỉ phép để giải quyết công việc cá nhân\n- Không có hoạt động học tập - Hoàn thành các công việc cá nhân cần thiết\n- Chuẩn bị tinh thần cho tuần tiếp theo - Ngày nghỉ phép 23/04/2026 - Tiếp tục nghiên cứu và hoàn thành các bài lab\n- Hoàn thành gần một nửa Module 1 của chương trình - Đạt được tiến độ đáng kể trong Module 1\n- Hiểu sâu hơn về các kiến thức nền tảng AWS\n- Sẵn sàng tiếp tục với nội dung còn lại của Module 1 AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Tiến độ Module 1 24/04/2026 - Hoàn thành nghiên cứu hết Module 1\n- Hoàn thành Lab 09-04 của AWS Study Group - Hoàn thành toàn bộ nội dung Module 1\n- Hoàn thành Lab 09-04\n- Nắm vững các khái niệm nền tảng AWS\n- Sẵn sàng chuyển sang Module 2 AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Hoàn thành Module 1 25/04/2026 - Bắt đầu học Module 2\n- Chuẩn bị cho các hoạt động Tuần 2 - Nắm được kiến thức ban đầu về nội dung Module 2\n- Chuẩn bị tài liệu và tinh thần cho Tuần 2\n- Ôn lại các thành tựu của Tuần 1 AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Giới thiệu Module 2 và chuẩn bị Tuần 2 26/04/2026 - Tiếp tục nghiên cứu kỹ hơn về Module 2\n- Học cả lý thuyết và thực hành\n- Đảm bảo sẵn sàng cho Module 2 tuần sau - Hiểu sâu hơn về lý thuyết Module 2\n- Thực hành các bài tập hands-on\n- Hoàn toàn chuẩn bị và tự tin cho Tuần 2\n- Hoàn thành thành công Tuần 1 AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Ngày cuối Tuần 1 - Chuẩn bị Module 2 Kiến thức đã học: AWS Account Setup: Cách tạo và cấu hình AWS Free Tier account Kiro IDE: Làm quen với Kiro - công cụ hỗ trợ phát triển với AI FCJ Program: Hiểu về cấu trúc chương trình First Cloud Journey Team Collaboration: Kỹ năng làm việc nhóm và giao tiếp Discord Server Management: Tạo và quản lý Discord server cho nhóm Advanced JavaScript: Các kiến thức JavaScript nâng cao để chuẩn bị cho dự án Hugo Static Site Generator: Cách sử dụng Hugo để tạo website tĩnh Git \u0026amp; GitHub: Quản lý version control và documentation Draw.io: Sử dụng Draw.io để vẽ sơ đồ kiến trúc và diagram Thành tựu: Hoàn thành đầy đủ các bài lab được giao trong ngày đầu tiên Tạo được kết nối tốt với các thành viên trong nhóm Sẵn sàng cho các tuần tiếp theo với môi trường làm việc đã được setup Thiết lập kênh liên lạc chính thức cho nhóm qua Discord Chủ động học thêm JavaScript nâng cao để chuẩn bị cho dự án Tạo repository và bắt đầu document hóa quá trình thực tập Nghiên cứu và nắm vững Hugo framework Khó khăn \u0026amp; Giải pháp: Khó khăn: Lần đầu tiếp xúc với AWS và các công cụ mới Giải pháp: Đọc kỹ tài liệu hướng dẫn và hỏi các thành viên có kinh nghiệm Khó khăn: Chưa quen với Hugo và cấu trúc static site Giải pháp: Nghiên cứu documentation và thực hành tạo worklog Tài liệu tham khảo: AWS Study Group YouTube Cloud Journey Discord Lamentum GitHub Worklog Repository Hugo Documentation "
 },
 {
-	"uri": "http://localhost:1313/vi/1-worklog/1.2-week2/",
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/1-worklog/1.2-week2/",
 	"title": "Worklog Tuần 2",
 	"tags": [],
 	"description": "",
-	"content": "Mục tiêu tuần 2: [Thêm mục tiêu của bạn tại đây] Công việc đã hoàn thành: Ngày Công việc Kết quả Ghi chú DD/MM/YYYY [Mô tả công việc] [Kết quả/Thành quả] [Links/Tài liệu] Kiến thức đã học: [Chủ đề 1]: Mô tả ngắn gọn về những gì bạn đã học [Chủ đề 2]: Mô tả ngắn gọn về những gì bạn đã học Thành tựu: [Thành tựu 1] [Thành tựu 2] Khó khăn \u0026amp; Giải pháp: Khó khăn: [Mô tả khó khăn] Giải pháp: [Cách bạn giải quyết] Tài liệu tham khảo: [Link tới tài liệu] [Link tới hướng dẫn] "
+	"content": "Mục tiêu tuần 2: Nghiên cứu sâu về lý thuyết và khái niệm Module 2 Nắm vững kiến thức nền tảng về AWS Virtual Private Cloud (VPC) Hiểu về VPC Security và Multi-VPC features Học về VPN, DirectConnect, LoadBalancer và Extra Resources Hoàn thành các bài lab và bài tập Module 2 Công việc đã hoàn thành: Ngày Công việc Kết quả Tài liệu Ghi chú 27/04/2026 - Tiếp tục nghiên cứu sâu về lý thuyết Module 2\n- Học về AWS Virtual Private Cloud (VPC)\n- Học về VPC Security và Multi-VPC features\n- Học về VPN, DirectConnect, LoadBalancer và Extra Resources - Hiểu sâu hơn về các khái niệm VPC\n- Làm rõ các cơ chế VPC Security\n- Hiểu về kiến trúc Multi-VPC\n- Nắm được về VPN và DirectConnect\n- Hiểu chức năng LoadBalancer AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Nghiên cứu sâu lý thuyết Module 2 28/04/2026 - Bắt đầu thực hành với các bài lab Module 2\n- Áp dụng kiến thức lý thuyết vào bài tập thực hành\n- Xác định các vấn đề cần nghiên cứu thêm - Bắt đầu triển khai thực tế các khái niệm VPC\n- Gặp một số khúc mắc nhỏ trong quá trình thực hành\n- Xác định được các phần cần học thêm\n- Có tiến bộ nhưng chưa thành thục AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Thực hành Module 2 - giai đoạn đầu 29/04/2026 - Đang thực hiện Module 2 Lab 03-03\n- Hoàn thành toàn bộ các bài tập trong Lab 03-03\n- Áp dụng các khái niệm VPC và networking vào thực hành - Đang thực hiện thành công Lab 03-03\n- Áp dụng kiến thức lý thuyết vào các tình huống thực tế\n- Tích lũy kinh nghiệm thực tế với AWS networking\n- Tự tin hơn với nội dung Module 2 AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Đang thực hiện Module 2 Lab 03-03 30/04/2026 - Hoàn thành Module 2 Lab 03-04\n- Bắt đầu học lý thuyết Module 2 Lab 10\n- Ôn lại những điểm tương đồng với Module 1 - Hoàn thành thành công Lab 03-04\n- Nhận ra sự tương đồng với nội dung Module 1\n- Hiểu được sự khác biệt giữa các module\n- Bắt đầu nghiên cứu lý thuyết Lab 10\n- Chưa bắt đầu thực hành Lab 10 AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Hoàn thành Lab 03-04, học lý thuyết Lab 10 01/05/2026 - Ngày nghỉ vì lý do cá nhân\n- Vẫn tiếp tục tự nghiên cứu lý thuyết AWS - Nghỉ phép để giải quyết công việc cá nhân\n- Duy trì đà học tập bằng cách nghiên cứu lý thuyết AWS\n- Chuẩn bị tinh thần cho công việc sắp tới AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Ngày nghỉ cá nhân nhưng vẫn tự học 02/05/2026 - Ngày nghỉ phép vì lý do cá nhân\n- Vẫn tiếp tục xem cách thực hành của Module 2 Lab 20 - Nghỉ phép để giải quyết công việc cá nhân\n- Xem các video và demo thực hành Lab 20\n- Học cách triển khai Lab 20\n- Chuẩn bị cho việc thực hành AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Ngày nghỉ cá nhân, học cách thực hành Lab 20 03/05/2026 - Ngày nghỉ vì lý do cá nhân\n- Không có hoạt động học tập - Nghỉ phép hoàn toàn vì công việc cá nhân\n- Nghỉ ngơi và nạp lại năng lượng\n- Chuẩn bị tinh thần cho tuần tiếp theo - Ngày nghỉ hoàn toàn Kiến thức đã học: AWS VPC: Hiểu về kiến trúc và các thành phần của Virtual Private Cloud VPC Security: Security groups, NACLs và các best practices về bảo mật VPC Multi-VPC Features: VPC peering, transit gateway và kiến trúc multi-VPC VPN \u0026amp; DirectConnect: Các tùy chọn kết nối hybrid cloud LoadBalancer: Application, Network và Gateway Load Balancers Extra Resources: Các tài nguyên và dịch vụ mạng AWS bổ sung Thành tựu: Làm rõ thành công các khái niệm phức tạp về networking trong Module 2 Xây dựng nền tảng lý thuyết vững chắc về VPC và networking Sẵn sàng tiến hành các bài lab thực hành Khó khăn \u0026amp; Giải pháp: Khó khăn: Lý thuyết Module 2 phức tạp và chưa rõ ràng ban đầu Giải pháp: Dành thời gian nghiên cứu kỹ từng chủ đề và xem xét nhiều nguồn tài liệu Tài liệu tham khảo: AWS Study Group YouTube Cloud Journey Discord Lamentum GitHub Worklog Repository "
 },
 {
-	"uri": "http://localhost:1313/vi/2-proposal/",
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/2-proposal/",
 	"title": "Bản đề xuất",
 	"tags": [],
 	"description": "",
 	"content": "Tại phần này, bạn cần tóm tắt các nội dung trong workshop mà bạn dự tính sẽ làm.\n[Tiêu đề đề xuất] 1. Tóm tắt điều hành [Bổ sung nội dung]\n2. Tuyên bố vấn đề [Bổ sung nội dung]\n3. Kiến trúc giải pháp [Bổ sung nội dung]\n4. Triển khai kỹ thuật [Bổ sung nội dung]\n5. Lộ trình \u0026amp; Mốc triển khai [Bổ sung nội dung]\n6. Ước tính ngân sách [Bổ sung nội dung]\n7. Đánh giá rủi ro [Bổ sung nội dung]\n8. Kết quả kỳ vọng [Bổ sung nội dung]\n"
 },
 {
-	"uri": "http://localhost:1313/vi/6-self-evaluation/",
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/1-worklog/1.3-week3/",
+	"title": "Worklog Tuần 3",
+	"tags": [],
+	"description": "",
+	"content": "Mục tiêu tuần 3: Tiến hành học Module 3 Xác định và tạm hoãn các chủ đề Module 2 chưa rõ để xem lại sau Xây dựng nền tảng cho các khái niệm Module 3 Lên kế hoạch quay lại Module 2 khi đã sẵn sàng Công việc đã hoàn thành: Ngày Công việc Kết quả Tài liệu Ghi chú 04/05/2026 - Bắt đầu học Module 3\n- Tạm hoãn một phần nội dung Module 2\n- Xác định các khái niệm chưa rõ trong Module 2 để xem lại sau - Bắt đầu thành công Module 3\n- Đưa ra quyết định chiến lược để tiến lên\n- Ghi chép các chủ đề Module 2 cần xem lại\n- Sẽ quay lại Module 2 khi các khái niệm rõ ràng hơn AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Bắt đầu Module 3, tạm hoãn một phần Module 2 05/05/2026 - Tiếp tục học và nghiên cứu lý thuyết Module 3\n- Nghiên cứu sâu các khái niệm Module 3\n- Học tài liệu và tư liệu Module 3 - Hiểu sâu hơn về lý thuyết Module 3\n- Tiến triển tốt với nội dung Module 3\n- Xây dựng nền tảng lý thuyết vững chắc\n- Chuẩn bị cho các bài tập thực hành AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Tiếp tục nghiên cứu lý thuyết Module 3 06/05/2026 - Hoàn thành học lý thuyết Module 3\n- Ôn tập tất cả các khái niệm lý thuyết Module 3\n- Chuẩn bị cho các bài tập thực hành Module 3 - Hoàn thành thành công lý thuyết Module 3\n- Nắm vững tất cả các khái niệm lý thuyết\n- Sẵn sàng bắt đầu thực hành\n- Xây dựng nền tảng vững chắc cho các lab Module 3 AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Hoàn thành lý thuyết Module 3 07/05/2026 - Hoàn thành Module 3 Lab 13\n- Bỏ qua các lab còn lại của Module 3\n- Bắt đầu chuẩn bị học lý thuyết Module 4 - Hoàn thành thành công Lab 13\n- Đưa ra quyết định chiến lược chuyển sang Module 4\n- Nhận ra khoảng trống kiến thức cần nền tảng vững hơn\n- Bắt đầu chuẩn bị nghiên cứu lý thuyết Module 4 AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Hoàn thành Lab 13, chuẩn bị Module 4 08/05/2026 - Hoàn thành học lý thuyết Module 4\n- Ôn tập tất cả các khái niệm lý thuyết Module 4\n- Chuẩn bị cho các bài tập thực hành Module 4 - Hoàn thành thành công lý thuyết Module 4\n- Nắm vững tất cả các khái niệm lý thuyết\n- Xây dựng nền tảng vững chắc cho Module 4\n- Sẵn sàng bắt đầu thực hành AWS Study Group YouTube\nCloud Journey\nDiscord Lamentum\nGitHub Worklog Hoàn thành lý thuyết Module 4 09/05/2026 - Tham gia sự kiện AWS Study Group tại Bitexco Tower\n- Học về cách tổ chức workshop và công nghệ AWS\n- Tham gia các phiên về AI trong vòng đời phát triển - Có được hiểu biết về tổ chức workshop\n- Học về vai trò của AI trong phát triển ứng dụng\n- Kết nối với cộng đồng AWS\n- Tham dự các phiên về thói quen học tập, prompt engineering và phát triển sự nghiệp AWS Study Group Event\nDiscord Lamentum\nGitHub Worklog Tham gia sự kiện AWS 10/05/2026 - Ngày nghỉ để nghỉ ngơi và giải quyết công việc cá nhân\n- Không có hoạt động học tập - Nghỉ ngơi hoàn toàn\n- Nghỉ ngơi và nạp lại năng lượng sau sự kiện\n- Chuẩn bị tinh thần cho tuần tiếp theo - Ngày nghỉ hoàn toàn Kiến thức đã học: Giới thiệu Module 3: Hiểu biết ban đầu về các khái niệm và cấu trúc Module 3 Chiến lược học tập: Nhận ra khi nào nên tiến lên và khi nào nên xem lại các chủ đề Tự nhận thức: Xác định được các lĩnh vực cụ thể trong Module 2 cần làm rõ thêm Thành tựu: Đưa ra quyết định học tập chiến lược để tiến tới Module 3 Duy trì đà học tập mặc dù có khó khăn Ghi chép các lĩnh vực cần xem lại trong tương lai Khó khăn \u0026amp; Giải pháp: Khó khăn: Một số khái niệm Module 2 vẫn chưa rõ ràng Giải pháp: Quyết định tiến lên Module 3 và lên kế hoạch quay lại các chủ đề Module 2 khi hiểu biết được cải thiện Tài liệu tham khảo: AWS Study Group YouTube Cloud Journey Discord Lamentum GitHub Worklog Repository "
+},
+{
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/6-self-evaluation/",
 	"title": "Tự đánh giá",
 	"tags": [],
 	"description": "",
 	"content": "Trong suốt thời gian thực tập tại [Tên công ty] từ [Ngày bắt đầu] đến [Ngày kết thúc], tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.\nĐể phản ánh một cách khách quan quá trình thực tập, tôi xin tự đánh giá bản thân dựa trên các tiêu chí dưới đây:\nSTT Tiêu chí Mô tả Tốt Khá Trung bình 1 Kiến thức và kỹ năng chuyên môn Hiểu biết về ngành, áp dụng kiến thức vào thực tế, kỹ năng sử dụng công cụ, chất lượng công việc ☐ ☐ ☐ 2 Khả năng học hỏi Tiếp thu kiến thức mới, học hỏi nhanh ☐ ☐ ☐ 3 Chủ động Tự tìm hiểu, nhận nhiệm vụ mà không chờ chỉ dẫn ☐ ☐ ☐ 4 Tinh thần trách nhiệm Hoàn thành công việc đúng hạn, đảm bảo chất lượng ☐ ☐ ☐ 5 Kỷ luật Tuân thủ giờ giấc, nội quy, quy trình làm việc ☐ ☐ ☐ 6 Tính cầu tiến Sẵn sàng nhận feedback và cải thiện bản thân ☐ ☐ ☐ 7 Giao tiếp Trình bày ý tưởng, báo cáo công việc rõ ràng ☐ ☐ ☐ 8 Hợp tác nhóm Làm việc hiệu quả với đồng nghiệp, tham gia nhóm ☐ ☐ ☐ 9 Ứng xử chuyên nghiệp Tôn trọng đồng nghiệp, đối tác, môi trường làm việc ☐ ☐ ☐ 10 Tư duy giải quyết vấn đề Nhận diện vấn đề, đề xuất giải pháp, sáng tạo ☐ ☐ ☐ 11 Đóng góp vào dự án/tổ chức Hiệu quả công việc, sáng kiến cải tiến, ghi nhận từ team ☐ ☐ ☐ 12 Tổng thể Đánh giá chung về toàn bộ quá trình thực tập ☐ ☐ ☐ Cần cải thiện [Thêm các điểm cần cải thiện] "
 },
 {
-	"uri": "http://localhost:1313/vi/1-worklog/1.3-week3/",
-	"title": "Worklog Tuần 3",
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/4-eventparticipated/",
+	"title": "Sự kiện đã tham gia",
 	"tags": [],
 	"description": "",
-	"content": "Mục tiêu tuần 3: [Thêm mục tiêu của bạn tại đây] Công việc đã hoàn thành: Ngày Công việc Kết quả Ghi chú DD/MM/YYYY [Mô tả công việc] [Kết quả/Thành quả] [Links/Tài liệu] Kiến thức đã học: [Chủ đề 1]: Mô tả ngắn gọn về những gì bạn đã học [Chủ đề 2]: Mô tả ngắn gọn về những gì bạn đã học Thành tựu: [Thành tựu 1] [Thành tựu 2] Khó khăn \u0026amp; Giải pháp: Khó khăn: [Mô tả khó khăn] Giải pháp: [Cách bạn giải quyết] Tài liệu tham khảo: [Link tới tài liệu] [Link tới hướng dẫn] "
+	"content": "Trong suốt thời gian thực tập, tôi đã tham gia các sự kiện và workshop của cộng đồng AWS để mở rộng kiến thức và kết nối với các chuyên gia trong lĩnh vực.\nDanh sách sự kiện Sự kiện 1: AWS Study Group Workshop - AI trong Phát triển\n"
 },
 {
-	"uri": "http://localhost:1313/vi/1-worklog/1.4-week4/",
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/1-worklog/1.4-week4/",
 	"title": "Worklog Tuần 4",
 	"tags": [],
 	"description": "",
 	"content": "Mục tiêu tuần 4: [Thêm mục tiêu của bạn tại đây] Công việc đã hoàn thành: Ngày Công việc Kết quả Ghi chú DD/MM/YYYY [Mô tả công việc] [Kết quả/Thành quả] [Links/Tài liệu] Kiến thức đã học: [Chủ đề 1]: Mô tả ngắn gọn về những gì bạn đã học [Chủ đề 2]: Mô tả ngắn gọn về những gì bạn đã học Thành tựu: [Thành tựu 1] [Thành tựu 2] Khó khăn \u0026amp; Giải pháp: Khó khăn: [Mô tả khó khăn] Giải pháp: [Cách bạn giải quyết] Tài liệu tham khảo: [Link tới tài liệu] [Link tới hướng dẫn] "
 },
 {
-	"uri": "http://localhost:1313/vi/1-worklog/1.5-week5/",
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/1-worklog/1.5-week5/",
 	"title": "Worklog Tuần 5",
 	"tags": [],
 	"description": "",
 	"content": "Mục tiêu tuần 5: [Thêm mục tiêu của bạn tại đây] Công việc đã hoàn thành: Ngày Công việc Kết quả Ghi chú DD/MM/YYYY [Mô tả công việc] [Kết quả/Thành quả] [Links/Tài liệu] Kiến thức đã học: [Chủ đề 1]: Mô tả ngắn gọn về những gì bạn đã học [Chủ đề 2]: Mô tả ngắn gọn về những gì bạn đã học Thành tựu: [Thành tựu 1] [Thành tựu 2] Khó khăn \u0026amp; Giải pháp: Khó khăn: [Mô tả khó khăn] Giải pháp: [Cách bạn giải quyết] Tài liệu tham khảo: [Link tới tài liệu] [Link tới hướng dẫn] "
 },
 {
-	"uri": "http://localhost:1313/vi/1-worklog/1.6-week6/",
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/1-worklog/1.6-week6/",
 	"title": "Worklog Tuần 6",
 	"tags": [],
 	"description": "",
 	"content": "Mục tiêu tuần 6: [Thêm mục tiêu của bạn tại đây] Công việc đã hoàn thành: Ngày Công việc Kết quả Ghi chú DD/MM/YYYY [Mô tả công việc] [Kết quả/Thành quả] [Links/Tài liệu] Kiến thức đã học: [Chủ đề 1]: Mô tả ngắn gọn về những gì bạn đã học [Chủ đề 2]: Mô tả ngắn gọn về những gì bạn đã học Thành tựu: [Thành tựu 1] [Thành tựu 2] Khó khăn \u0026amp; Giải pháp: Khó khăn: [Mô tả khó khăn] Giải pháp: [Cách bạn giải quyết] Tài liệu tham khảo: [Link tới tài liệu] [Link tới hướng dẫn] "
 },
 {
-	"uri": "http://localhost:1313/vi/1-worklog/1.7-week7/",
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/1-worklog/1.7-week7/",
 	"title": "Worklog Tuần 7",
 	"tags": [],
 	"description": "",
 	"content": "Mục tiêu tuần 7: [Thêm mục tiêu của bạn tại đây] Công việc đã hoàn thành: Ngày Công việc Kết quả Ghi chú DD/MM/YYYY [Mô tả công việc] [Kết quả/Thành quả] [Links/Tài liệu] Kiến thức đã học: [Chủ đề 1]: Mô tả ngắn gọn về những gì bạn đã học [Chủ đề 2]: Mô tả ngắn gọn về những gì bạn đã học Thành tựu: [Thành tựu 1] [Thành tựu 2] Khó khăn \u0026amp; Giải pháp: Khó khăn: [Mô tả khó khăn] Giải pháp: [Cách bạn giải quyết] Tài liệu tham khảo: [Link tới tài liệu] [Link tới hướng dẫn] "
 },
 {
-	"uri": "http://localhost:1313/vi/1-worklog/1.8-week8/",
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/1-worklog/1.8-week8/",
 	"title": "Worklog Tuần 8",
 	"tags": [],
 	"description": "",
 	"content": "Mục tiêu tuần 8: [Thêm mục tiêu của bạn tại đây] Công việc đã hoàn thành: Ngày Công việc Kết quả Ghi chú DD/MM/YYYY [Mô tả công việc] [Kết quả/Thành quả] [Links/Tài liệu] Kiến thức đã học: [Chủ đề 1]: Mô tả ngắn gọn về những gì bạn đã học [Chủ đề 2]: Mô tả ngắn gọn về những gì bạn đã học Thành tựu: [Thành tựu 1] [Thành tựu 2] Khó khăn \u0026amp; Giải pháp: Khó khăn: [Mô tả khó khăn] Giải pháp: [Cách bạn giải quyết] Tài liệu tham khảo: [Link tới tài liệu] [Link tới hướng dẫn] "
 },
 {
-	"uri": "http://localhost:1313/vi/1-worklog/1.9-week9/",
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/1-worklog/1.9-week9/",
 	"title": "Worklog Tuần 9",
 	"tags": [],
 	"description": "",
 	"content": "Mục tiêu tuần 9: [Thêm mục tiêu của bạn tại đây] Công việc đã hoàn thành: Ngày Công việc Kết quả Ghi chú DD/MM/YYYY [Mô tả công việc] [Kết quả/Thành quả] [Links/Tài liệu] Kiến thức đã học: [Chủ đề 1]: Mô tả ngắn gọn về những gì bạn đã học [Chủ đề 2]: Mô tả ngắn gọn về những gì bạn đã học Thành tựu: [Thành tựu 1] [Thành tựu 2] Khó khăn \u0026amp; Giải pháp: Khó khăn: [Mô tả khó khăn] Giải pháp: [Cách bạn giải quyết] Tài liệu tham khảo: [Link tới tài liệu] [Link tới hướng dẫn] "
 },
 {
-	"uri": "http://localhost:1313/vi/1-worklog/1.10-week10/",
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/1-worklog/1.10-week10/",
 	"title": "Worklog Tuần 10",
 	"tags": [],
 	"description": "",
 	"content": "Mục tiêu tuần 10: [Thêm mục tiêu của bạn tại đây] Công việc đã hoàn thành: Ngày Công việc Kết quả Ghi chú DD/MM/YYYY [Mô tả công việc] [Kết quả/Thành quả] [Links/Tài liệu] Kiến thức đã học: [Chủ đề 1]: Mô tả ngắn gọn về những gì bạn đã học [Chủ đề 2]: Mô tả ngắn gọn về những gì bạn đã học Thành tựu: [Thành tựu 1] [Thành tựu 2] Khó khăn \u0026amp; Giải pháp: Khó khăn: [Mô tả khó khăn] Giải pháp: [Cách bạn giải quyết] Tài liệu tham khảo: [Link tới tài liệu] [Link tới hướng dẫn] "
 },
 {
-	"uri": "http://localhost:1313/vi/1-worklog/1.11-week11/",
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/1-worklog/1.11-week11/",
 	"title": "Worklog Tuần 11",
 	"tags": [],
 	"description": "",
 	"content": "Mục tiêu tuần 11: [Thêm mục tiêu của bạn tại đây] Công việc đã hoàn thành: Ngày Công việc Kết quả Ghi chú DD/MM/YYYY [Mô tả công việc] [Kết quả/Thành quả] [Links/Tài liệu] Kiến thức đã học: [Chủ đề 1]: Mô tả ngắn gọn về những gì bạn đã học [Chủ đề 2]: Mô tả ngắn gọn về những gì bạn đã học Thành tựu: [Thành tựu 1] [Thành tựu 2] Khó khăn \u0026amp; Giải pháp: Khó khăn: [Mô tả khó khăn] Giải pháp: [Cách bạn giải quyết] Tài liệu tham khảo: [Link tới tài liệu] [Link tới hướng dẫn] "
 },
 {
-	"uri": "http://localhost:1313/vi/1-worklog/1.12-week12/",
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/1-worklog/1.12-week12/",
 	"title": "Worklog Tuần 12",
 	"tags": [],
 	"description": "",
 	"content": "Mục tiêu tuần 12: [Thêm mục tiêu của bạn tại đây] Công việc đã hoàn thành: Ngày Công việc Kết quả Ghi chú DD/MM/YYYY [Mô tả công việc] [Kết quả/Thành quả] [Links/Tài liệu] Kiến thức đã học: [Chủ đề 1]: Mô tả ngắn gọn về những gì bạn đã học [Chủ đề 2]: Mô tả ngắn gọn về những gì bạn đã học Thành tựu: [Thành tựu 1] [Thành tựu 2] Khó khăn \u0026amp; Giải pháp: Khó khăn: [Mô tả khó khăn] Giải pháp: [Cách bạn giải quyết] Tài liệu tham khảo: [Link tới tài liệu] [Link tới hướng dẫn] "
 },
 {
-	"uri": "http://localhost:1313/vi/categories/",
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/categories/",
 	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
 },
 {
-	"uri": "http://localhost:1313/vi/tags/",
+	"uri": "http://localhost:1313/FACJ_Worklog/vi/tags/",
 	"title": "Tags",
 	"tags": [],
 	"description": "",
