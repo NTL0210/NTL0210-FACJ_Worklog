@@ -6,8 +6,6 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# AWS Study Group Workshop - AI trong Phát triển
-
 ## Thông tin sự kiện
 
 **Tên sự kiện:** AWS Study Group Workshop - AI trong Vòng đời Phát triển

@@ -6,8 +6,6 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-# Sự kiện đã tham gia
-
 Trong suốt thời gian thực tập, tôi đã tham gia các sự kiện và workshop của cộng đồng AWS để mở rộng kiến thức và kết nối với các chuyên gia trong lĩnh vực.
 
 ## Danh sách sự kiện

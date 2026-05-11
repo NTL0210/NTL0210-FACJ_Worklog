@@ -6,8 +6,6 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# AWS Study Group Workshop - AI in Development
-
 ## Event Information
 
 **Event Name:** AWS Study Group Workshop - AI in Development Lifecycle

@@ -6,8 +6,6 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-# Events Participated
-
 Throughout my internship, I participated in various AWS community events and workshops to expand my knowledge and network with professionals in the field.
 
 ## Event List
