@@ -19,6 +19,7 @@ pre: " <b> 1.4. </b> "
 | 11/05/2026 | - Tham gia các hoạt động học tập<br>- Cố gắng tiến triển với công việc thực hành Module 4 | - Tham gia các buổi học<br>- Không thể tiến triển với công việc thực hành<br>- Lab Module 4 chưa được hoàn thành<br>- Đang chờ hoàn thành lab để tiếp tục các bài tập thực hành | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Tham gia nhưng bị chặn do lab chưa hoàn thành |
 | 12/05/2026 | - Tiếp tục làm Module 4 Lab 13<br>- Làm việc với dự án cá nhân (Ytomp34)<br>- Cân bằng giữa học tập thực tập và phát triển cá nhân | - Tiến triển tốt với Module 4 Lab 13<br>- Phát triển dự án cá nhân song song với công việc thực tập<br>- Nâng cao kỹ năng lập trình thông qua dự án cá nhân<br>- Dự án cá nhân không liên quan đến dự án cuối kỳ thực tập | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[Dự án cá nhân - Ytomp34](https://github.com/NTL0210/Ytomp34)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Tiếp tục Lab 13 + làm dự án cá nhân |
 | 13/05/2026 | - Khắc phục lỗi Lab 13<br>- Tạm hoãn công việc Lab 13<br>- Bắt đầu nghiên cứu Module 4 Lab 14 | - Gặp lỗi trong Lab 13<br>- Xác định khoảng trống kiến thức cần học thêm<br>- Tạm thời dừng Lab 13 để giải quyết vấn đề nền tảng<br>- Bắt đầu nghiên cứu và học các khái niệm Lab 14<br>- Sẽ quay lại Lab 13 sau khi có thêm kiến thức | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Tạm dừng Lab 13 do lỗi, nghiên cứu Lab 14 |
+| 14/05/2026 | - Tham gia các buổi học<br>- Cố gắng tiến triển với Module 4<br>- Xem lại tài liệu Module 4 | - Tham gia các hoạt động học tập<br>- Không thể học được khái niệm mới<br>- Vẫn mắc kẹt với các thách thức Module 4<br>- Không có tiến triển đáng kể<br>- Tiếp tục gặp phải các trở ngại tương tự | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Tham gia nhưng không có tiến triển mới, vẫn mắc kẹt |
 
 ### Kiến thức đã học:
 
@@ -43,6 +44,8 @@ pre: " <b> 1.4. </b> "
   * **Giải pháp**: Tiếp tục tham gia các buổi học và chờ hoàn thành lab để tiến hành các bài tập thực hành
 * **Khó khăn**: Gặp lỗi trong Lab 13 do thiếu kiến thức
   * **Giải pháp**: Tạm thời dừng công việc Lab 13, xác định các lĩnh vực cần học thêm, và bắt đầu nghiên cứu Lab 14 để xây dựng nền tảng vững chắc hơn
+* **Khó khăn**: Tham gia học tập nhưng không thể tiến triển, vẫn mắc kẹt với Module 4
+  * **Giải pháp**: Duy trì sự tham gia mặc dù thiếu tiến triển, cần đánh giá lại phương pháp học tập và tìm kiếm hỗ trợ bổ sung hoặc tài nguyên thay thế
 
 ### Tài liệu tham khảo:
 
