@@ -22,6 +22,7 @@ pre: " <b> 1.4. </b> "
 | 14/05/2026 | - Tham gia các buổi học<br>- Cố gắng tiến triển với Module 4<br>- Xem lại tài liệu Module 4 | - Tham gia các hoạt động học tập<br>- Không thể học được khái niệm mới<br>- Vẫn mắc kẹt với các thách thức Module 4<br>- Không có tiến triển đáng kể<br>- Tiếp tục gặp phải các trở ngại tương tự | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Tham gia nhưng không có tiến triển mới, vẫn mắc kẹt |
 | 15/05/2026 | - Không có hoạt động học tập<br>- Không có công việc nghiên cứu | - Không tham gia các buổi học<br>- Không tiến hành học tập hoặc nghiên cứu<br>- Ngày nghỉ khỏi các hoạt động thực tập | - | Không có hoạt động học tập hoặc nghiên cứu |
 | 16/05/2026 | - Ngày nghỉ<br>- Không có hoạt động học tập | - Nghỉ ngơi hoàn toàn<br>- Không có hoạt động thực tập<br>- Thời gian nghỉ ngơi và cá nhân | - | Ngày nghỉ |
+| 17/05/2026 | - Ngày nghỉ<br>- Không có hoạt động học tập | - Nghỉ ngơi hoàn toàn<br>- Không có hoạt động thực tập<br>- Thời gian nghỉ ngơi và cá nhân | - | Ngày nghỉ |
 
 ### Kiến thức đã học:
 

@@ -22,6 +22,7 @@ pre: " <b> 1.4. </b> "
 | 14/05/2026 | - Participate in learning sessions<br>- Attempt to progress with Module 4<br>- Review Module 4 materials | - Participated in learning activities<br>- Unable to learn new concepts<br>- Still stuck with Module 4 challenges<br>- No significant progress made<br>- Continued to face same blockers | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Participated but no new progress, still stuck |
 | 15/05/2026 | - No learning activities<br>- No research work | - Did not participate in learning sessions<br>- No study or research conducted<br>- Day off from internship activities | - | No learning or research activities |
 | 16/05/2026 | - Day off<br>- No learning activities | - Took complete day off<br>- No internship activities<br>- Rest and personal time | - | Day off |
+| 17/05/2026 | - Day off<br>- No learning activities | - Took complete day off<br>- No internship activities<br>- Rest and personal time | - | Day off |
 
 ### Knowledge Gained:
 
