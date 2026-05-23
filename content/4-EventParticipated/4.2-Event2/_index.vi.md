@@ -15,6 +15,16 @@ pre: " <b> 4.2. </b> "
 
 {{< figure src="/NTL0210-FACJ_Worklog/images/Event2.jpg" title="FCAJ Community Day 2026" >}}
 
+## Hình ảnh sự kiện
+
+{{< figure src="/NTL0210-FACJ_Worklog/images/1.jpg" title="Hình ảnh sự kiện 1" >}}
+
+{{< figure src="/NTL0210-FACJ_Worklog/images/2.jpg" title="Hình ảnh sự kiện 2" >}}
+
+{{< figure src="/NTL0210-FACJ_Worklog/images/3.jpg" title="Hình ảnh sự kiện 3" >}}
+
+{{< figure src="/NTL0210-FACJ_Worklog/images/4.jpg" title="Hình ảnh sự kiện 4" >}}
+
 ## Tổng quan sự kiện
 
 FCAJ Community Day tập hợp các thành viên cộng đồng AWS, nhà phát triển và chuyên gia trong ngành để chia sẻ kiến thức, kinh nghiệm và hiểu biết về công nghệ đám mây, AI và các phương pháp hay nhất trong phát triển phần mềm.

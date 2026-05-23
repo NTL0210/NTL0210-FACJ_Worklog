@@ -15,6 +15,16 @@ pre: " <b> 4.2. </b> "
 
 {{< figure src="/NTL0210-FACJ_Worklog/images/Event2.jpg" title="FCAJ Community Day 2026" >}}
 
+## Event Photos
+
+{{< figure src="/NTL0210-FACJ_Worklog/images/1.jpg" title="Event Photo 1" >}}
+
+{{< figure src="/NTL0210-FACJ_Worklog/images/2.jpg" title="Event Photo 2" >}}
+
+{{< figure src="/NTL0210-FACJ_Worklog/images/3.jpg" title="Event Photo 3" >}}
+
+{{< figure src="/NTL0210-FACJ_Worklog/images/4.jpg" title="Event Photo 4" >}}
+
 ## Event Overview
 
 FCAJ Community Day brought together AWS community members, developers, and industry experts to share knowledge, experiences, and insights on cloud technologies, AI, and software development best practices.
