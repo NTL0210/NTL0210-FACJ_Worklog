@@ -1,4 +1,4 @@
-baseURL = "https://ntl0210.github.io/FACJ_Worklog/"
+baseURL = "https://ntl0210.github.io/NTL0210-FACJ_Worklog/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
