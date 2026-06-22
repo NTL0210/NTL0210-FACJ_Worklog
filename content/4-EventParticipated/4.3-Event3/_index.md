@@ -14,6 +14,14 @@ pre: " <b> 4.3. </b> "
 **Role:** Participant/Observer  
 **Host:** AWS Study Group Community
 
+{{< figure src="/NTL0210-FACJ_Worklog/images/123.jpg" title="AWS Certification Quiz Competition 2026" >}}
+
+## Event Photos
+
+{{< figure src="/NTL0210-FACJ_Worklog/images/1234.jpg" title="Competition Moment 1" >}}
+
+{{< figure src="/NTL0210-FACJ_Worklog/images/12345.jpg" title="Competition Moment 2" >}}
+
 ## Event Overview
 
 The AWS Certification Quiz Competition was an engaging knowledge competition where 8 teams competed against each other to answer various questions about AWS cloud services and general cloud computing concepts. The event was hosted by Anh Thịnh, who provided valuable insights and additional information about AWS concepts throughout the competition.

@@ -14,6 +14,14 @@ pre: " <b> 4.3. </b> "
 **Vai trò:** Người tham gia/Quan sát  
 **Chủ trì:** Cộng đồng AWS Study Group
 
+{{< figure src="/NTL0210-FACJ_Worklog/images/123.jpg" title="Cuộc thi AWS Certification Quiz 2026" >}}
+
+## Ảnh sự kiện
+
+{{< figure src="/NTL0210-FACJ_Worklog/images/1234.jpg" title="Khoảnh khắc thi đấu 1" >}}
+
+{{< figure src="/NTL0210-FACJ_Worklog/images/12345.jpg" title="Khoảnh khắc thi đấu 2" >}}
+
 ## Tổng quan sự kiện
 
 Cuộc thi AWS Certification Quiz là một cuộc thi kiến thức hấp dẫn với 8 đội thi đấu với nhau để trả lời các câu hỏi về dịch vụ AWS cloud và các khái niệm cloud computing nói chung. Sự kiện được dẫn dắt bởi Anh Thịnh, người đã cung cấp những thông tin chi tiết và kiến thức bổ sung quý giá về các khái niệm AWS trong suốt cuộc thi.
