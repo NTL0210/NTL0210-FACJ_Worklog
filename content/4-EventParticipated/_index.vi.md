@@ -11,3 +11,7 @@ Trong suốt thời gian thực tập, tôi đã tham gia các sự kiện và w
 ## Danh sách sự kiện
 
 **Sự kiện 1:** [AWS Study Group Workshop - AI trong Phát triển](4.1-event1/)
+
+**Sự kiện 2:** [FCAJ Community Day](4.2-event2/)
+
+**Sự kiện 3:** [Cuộc thi AWS Certification Quiz](4.3-event3/)

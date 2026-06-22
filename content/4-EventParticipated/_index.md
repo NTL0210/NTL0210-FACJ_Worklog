@@ -11,3 +11,7 @@ Throughout my internship, I participated in various AWS community events and wor
 ## Event List
 
 **Event 1:** [AWS Study Group Workshop - AI in Development](4.1-event1/)
+
+**Event 2:** [FCAJ Community Day](4.2-event2/)
+
+**Event 3:** [AWS Certification Quiz Competition](4.3-event3/)
