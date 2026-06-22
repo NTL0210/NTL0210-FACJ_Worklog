@@ -9,45 +9,45 @@ pre: " <b> 1.8. </b> "
 ### Week 8 Objectives:
 
 * Continue group project development
-* Review and refine project architecture design
-* Implement architectural improvements
+* Review and revise project architecture design
+* Begin implementing architectural changes
 * Collaborate with team on design decisions
-* Apply best practices to project structure
+* Prepare for AWS services integration
 
 ### Tasks Completed:
 
 | Date | Task | Result | Resources | Notes |
 |------|------|--------|-----------|-------|
-| 08/06/2026 | - Continue group project work<br>- Review current architecture design<br>- Identify areas for improvement | - Analyzed existing project architecture<br>- Identified design bottlenecks<br>- Documented improvement opportunities<br>- Discussed changes with team | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Architecture review |
-| 09/06/2026 | - Revise architecture design<br>- Plan implementation strategy<br>- Team discussions on design changes | - Created revised architecture diagrams<br>- Defined new design patterns<br>- Established implementation roadmap<br>- Gained team consensus on changes | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Design revision |
-| 10/06/2026 | - Implement architectural improvements<br>- Refactor existing code structure<br>- Update project documentation | - Applied new architecture design<br>- Refactored key components<br>- Improved code organization<br>- Updated technical documentation | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Implementation phase |
-| 11/06/2026 | - Continue architectural refactoring<br>- Test new design implementation<br>- Fix integration issues | - Completed core refactoring tasks<br>- Conducted integration testing<br>- Resolved compatibility issues<br>- Validated new architecture | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Testing & validation |
-| 12/06/2026 | - Finalize architecture improvements<br>- Code review with team<br>- Optimize performance | - Finalized all architectural changes<br>- Conducted peer code review<br>- Optimized system performance<br>- Documented design decisions | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Finalization & optimization |
-| 13/06/2026 | - Group project work<br>- Integrate changes with team work<br>- Prepare for next sprint | - Integrated architectural changes<br>- Collaborated on feature development<br>- Prepared sprint planning materials<br>- Aligned team on next steps | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Integration & planning |
-| 14/06/2026 | - Complete week's project tasks<br>- Final review and documentation<br>- Weekly retrospective | - Completed all assigned tasks<br>- Updated project documentation<br>- Participated in retrospective<br>- Identified lessons learned | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Week completion |
+| 08/06/2026 | - Continue group project work<br>- Review current architecture design<br>- Identify areas for improvement | - Analyzed existing project architecture<br>- Identified design limitations<br>- Documented improvement needs<br>- Discussed potential changes with team | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Architecture review |
+| 09/06/2026 | - Revise architecture design<br>- Plan implementation approach<br>- Team discussions on design changes | - Started creating revised architecture diagrams<br>- Researched design patterns for project<br>- Outlined implementation plan<br>- Team brainstorming on improvements | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Design revision planning |
+| 10/06/2026 | - Begin implementing architectural changes<br>- Refactor project structure<br>- Update documentation | - Started applying new architecture design<br>- Began refactoring core components<br>- Worked on code reorganization<br>- Updated technical documentation draft | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Implementation start |
+| 11/06/2026 | - Continue architectural refactoring<br>- Test implemented changes<br>- Address integration issues | - Made progress on refactoring tasks<br>- Conducted initial testing<br>- Identified and noted integration challenges<br>- Continued architecture validation | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Testing & iteration |
+| 12/06/2026 | - Continue architecture improvements<br>- Code review with team<br>- Work on optimization | - Continued architectural changes<br>- Participated in peer code review<br>- Started performance optimization<br>- Documented ongoing design decisions | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Ongoing improvements |
+| 13/06/2026 | - Group project work<br>- Integrate current changes<br>- Prepare for AWS integration | - Merged architectural changes in progress<br>- Collaborated on feature development<br>- Researched AWS services for integration<br>- Planning next development phase | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Integration & AWS prep |
+| 14/06/2026 | - Continue project development<br>- Review week's progress<br>- Weekly team meeting | - Completed assigned tasks for the week<br>- Updated project status<br>- Participated in team meeting<br>- Planned next week's objectives | [AWS Study Group YouTube](https://www.youtube.com/@AWSStudyGroup)<br>[Cloud Journey](https://cloudjourney.awsstudygroup.com)<br>[Discord Lamentum](https://discord.gg/yjFh7dNq)<br>[GitHub Worklog](https://github.com/NTL0210/FACJ_Worklog) | Weekly wrap-up |
 
 ### Knowledge Gained:
 
 * **Software Architecture**: Deepened understanding of architectural patterns and design principles
-* **Refactoring Techniques**: Learned systematic approaches to improving existing code structure
-* **Design Patterns**: Applied appropriate design patterns to solve architectural challenges
+* **Refactoring Techniques**: Learning systematic approaches to improving code structure
+* **Design Patterns**: Exploring appropriate design patterns for project challenges
 * **Team Collaboration**: Enhanced skills in collaborative design and decision-making
-* **Technical Documentation**: Improved ability to document architectural decisions and rationale
+* **AWS Services Planning**: Researching AWS services for future integration
 
 ### Achievements:
 
-* Successfully redesigned project architecture for better scalability
-* Implemented architectural improvements without breaking existing functionality
-* Led team discussions on design decisions
-* Improved overall code quality and maintainability
-* Completed comprehensive documentation of new architecture
+* Made significant progress on architecture redesign
+* Started implementing architectural improvements
+* Collaborated effectively on design decisions
+* Began improving code structure and organization
+* Prepared groundwork for AWS services integration
 
 ### Challenges & Solutions:
 
-* **Challenge**: Refactoring existing code while maintaining functionality
-  * **Solution**: Implemented changes incrementally with thorough testing at each step
-* **Challenge**: Aligning team on architectural changes
-  * **Solution**: Presented clear diagrams and documented benefits of new design
+* **Challenge**: Coordinating architecture changes across team members
+  * **Solution**: Regular team discussions and clear documentation of design decisions
+* **Challenge**: Maintaining project functionality during refactoring
+  * **Solution**: Implementing changes incrementally with continuous testing
 
 ### Resources & References:
 
