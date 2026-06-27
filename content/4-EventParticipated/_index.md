@@ -15,3 +15,5 @@ Throughout my internship, I participated in various AWS community events and wor
 **Event 2:** [FCAJ Community Day](4.2-event2/)
 
 **Event 3:** [AWS Certification Quiz Competition](4.3-event3/)
+
+**Event 4:** [FCAJ Community Day - AI Agents & DevOps](4.4-event4/)
