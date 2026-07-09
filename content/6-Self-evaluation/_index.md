@@ -12,18 +12,18 @@ To objectively reflect on my internship process, I would like to evaluate myself
 
 | No. | Criteria | Description | Excellent | Good | Average |
 | --- | -------- | ----------- | --------- | ---- | ------- |
-| 1   | **Professional Knowledge & Skills** | Understanding of the field, applying knowledge in practice, tool usage skills, work quality | ☐ | ☐ | ☐ |
-| 2   | **Learning Ability** | Absorbing new knowledge, learning quickly | ☐ | ☐ | ☐ |
-| 3   | **Proactiveness** | Self-learning, taking on tasks without waiting for instructions | ☐ | ☐ | ☐ |
-| 4   | **Sense of Responsibility** | Completing work on time, ensuring quality | ☐ | ☐ | ☐ |
-| 5   | **Discipline** | Following schedules, regulations, work processes | ☐ | ☐ | ☐ |
-| 6   | **Growth Mindset** | Willing to receive feedback and improve oneself | ☐ | ☐ | ☐ |
-| 7   | **Communication** | Presenting ideas, reporting work clearly | ☐ | ☐ | ☐ |
-| 8   | **Teamwork** | Working effectively with colleagues, participating in teams | ☐ | ☐ | ☐ |
-| 9   | **Professional Conduct** | Respecting colleagues, partners, work environment | ☐ | ☐ | ☐ |
-| 10  | **Problem-Solving Thinking** | Identifying problems, proposing solutions, creativity | ☐ | ☐ | ☐ |
-| 11  | **Contribution to Project/Organization** | Work effectiveness, improvement initiatives, team recognition | ☐ | ☐ | ☐ |
-| 12  | **Overall** | Overall assessment of the entire internship process | ☐ | ☐ | ☐ |
+| 1   | **Professional Knowledge & Skills** | Understanding of the field, applying knowledge in practice, tool usage skills, work quality | ☐ | ☑ | ☐ |
+| 2   | **Learning Ability** | Absorbing new knowledge, learning quickly | ☑ | ☐ | ☐ |
+| 3   | **Proactiveness** | Self-learning, taking on tasks without waiting for instructions | ☐ | ☑ | ☐ |
+| 4   | **Sense of Responsibility** | Completing work on time, ensuring quality | ☑ | ☐ | ☐ |
+| 5   | **Discipline** | Following schedules, regulations, work processes | ☐ | ☑ | ☐ |
+| 6   | **Growth Mindset** | Willing to receive feedback and improve oneself | ☑ | ☐ | ☐ |
+| 7   | **Communication** | Presenting ideas, reporting work clearly | ☐ | ☑ | ☐ |
+| 8   | **Teamwork** | Working effectively with colleagues, participating in teams | ☑ | ☐ | ☐ |
+| 9   | **Professional Conduct** | Respecting colleagues, partners, work environment | ☐ | ☑ | ☐ |
+| 10  | **Problem-Solving Thinking** | Identifying problems, proposing solutions, creativity | ☑ | ☐ | ☐ |
+| 11  | **Contribution to Project/Organization** | Work effectiveness, improvement initiatives, team recognition | ☐ | ☑ | ☐ |
+| 12  | **Overall** | Overall assessment of the entire internship process | ☑ | ☐ | ☐ |
 
 ### Areas for Improvement
 
