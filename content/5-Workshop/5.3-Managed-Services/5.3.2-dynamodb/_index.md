@@ -17,11 +17,9 @@ This design fits DynamoDB because DynamoDB is usually optimized around applicati
 3. Select **On-demand** capacity mode for the demo/MVP phase.
 4. Keep encryption at rest with the default settings.
 
-![dynamodb table](/NTL0210-FACJ_Worklog/images/5-Workshop/5.3-Managed-Services/5.3.2-dynamodb/tables.png)
 
 After the backend or AI pipeline runs, open **Explore table items** to verify that meeting/task data has been written.
 
-![dynamodb task item](/NTL0210-FACJ_Worklog/images/5-Workshop/5.3-Managed-Services/5.3.2-dynamodb/task-item.png)
 
 {{% notice note %}}
 Single-table design is a common DynamoDB pattern. As the system grows, GSIs or additional tables can be added if access patterns change.

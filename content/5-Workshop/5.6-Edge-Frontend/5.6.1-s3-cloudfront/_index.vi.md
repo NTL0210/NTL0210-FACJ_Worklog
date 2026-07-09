@@ -12,7 +12,6 @@ pre : " <b> 5.6.1. </b> "
 2. **Tạo S3 bucket** `aws-meting-frontend` (chặn toàn bộ public access — CloudFront sẽ truy cập riêng tư).
 3. Upload các file đã build lên bucket.
 
-![frontend bucket](/NTL0210-FACJ_Worklog/images/5-Workshop/5.6-Edge-Frontend/5.6.1-s3-cloudfront/frontend-bucket.png)
 
 4. **Tạo CloudFront distribution:**
    + Origin = bucket `aws-meting-frontend`, dùng **Origin Access Control (OAC)** để chỉ CloudFront đọc được.
@@ -21,7 +20,6 @@ pre : " <b> 5.6.1. </b> "
 5. Cập nhật bucket policy của S3 để cho phép truy cập từ CloudFront distribution (OAC).
 6. Ghi lại domain của CloudFront và cập nhật callback/sign-out URL của **Cognito app client** (phần 5.3.1) thành domain này.
 
-![cloudfront](/NTL0210-FACJ_Worklog/images/5-Workshop/5.6-Edge-Frontend/5.6.1-s3-cloudfront/cloudfront.png)
 
 {{% notice tip %}}
 Giữ S3 bucket ở chế độ riêng tư và chỉ phục vụ qua CloudFront + OAC. Cách này vừa an toàn hơn vừa rẻ hơn (cache của CloudFront giảm request về origin).
