@@ -7,25 +7,23 @@ chapter: false
 
 # Internship Report
 
-### Student Information:
-
-**Full Name:** Nguyễn Tấn Lộc
-
-**Phone Number:** 0965438184
-
-**Email:** locnguyetan0210@gmail.com
-
-**University:** Ho Chi Minh City University of Technology (HUTECH)
-
-**Major:** Software Engineering
-
-**Class:** 22DTHD7
-
-**Internship Company:** Amazon Web Services Vietnam Co., Ltd.
-
-**Internship Position:** FCJ Cloud Intern
-
-**Internship Duration:** From April 17, 2026 to July 10, 2026
+<div class="home-profile">
+  <div class="home-profile-photo">
+    <img src="/NTL0210-FACJ_Worklog/images/avatar.png" alt="Nguyễn Tấn Lộc">
+  </div>
+  <div class="home-profile-info">
+    <h3>Student Information</h3>
+    <p><strong>Full Name:</strong> Nguyễn Tấn Lộc</p>
+    <p><strong>Phone Number:</strong> 0965438184</p>
+    <p><strong>Email:</strong> locnguyetan0210@gmail.com</p>
+    <p><strong>University:</strong> Ho Chi Minh City University of Technology (HUTECH)</p>
+    <p><strong>Major:</strong> Software Engineering</p>
+    <p><strong>Class:</strong> 22DTHD7</p>
+    <p><strong>Internship Company:</strong> Amazon Web Services Vietnam Co., Ltd.</p>
+    <p><strong>Internship Position:</strong> FCJ Cloud Intern</p>
+    <p><strong>Internship Duration:</strong> From April 17, 2026 to July 10, 2026</p>
+  </div>
+</div>
 
 ---
 

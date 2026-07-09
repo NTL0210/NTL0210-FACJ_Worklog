@@ -7,25 +7,23 @@ chapter: false
 
 # Báo cáo thực tập
 
-### Thông tin sinh viên:
-
-**Họ và tên:** Nguyễn Tấn Lộc
-
-**Số điện thoại:** 0965438184
-
-**Email:** locnguyetan0210@gmail.com
-
-**Trường:** Đại học Công nghệ Thành phố Hồ Chí Minh (HUTECH)
-
-**Ngành:** Công nghệ phần mềm
-
-**Lớp:** 22DTHD7
-
-**Công ty thực tập:** Công ty TNHH Amazon Web Services Vietnam
-
-**Vị trí thực tập:** FCJ Cloud Intern
-
-**Thời gian thực tập:** Từ ngày 17/04/2026 đến ngày 10/07/2026
+<div class="home-profile">
+  <div class="home-profile-photo">
+    <img src="/NTL0210-FACJ_Worklog/images/avatar.png" alt="Nguyễn Tấn Lộc">
+  </div>
+  <div class="home-profile-info">
+    <h3>Thông tin sinh viên</h3>
+    <p><strong>Họ và tên:</strong> Nguyễn Tấn Lộc</p>
+    <p><strong>Số điện thoại:</strong> 0965438184</p>
+    <p><strong>Email:</strong> locnguyetan0210@gmail.com</p>
+    <p><strong>Trường:</strong> Đại học Công nghệ Thành phố Hồ Chí Minh (HUTECH)</p>
+    <p><strong>Ngành:</strong> Công nghệ phần mềm</p>
+    <p><strong>Lớp:</strong> 22DTHD7</p>
+    <p><strong>Công ty thực tập:</strong> Công ty TNHH Amazon Web Services Vietnam</p>
+    <p><strong>Vị trí thực tập:</strong> FCJ Cloud Intern</p>
+    <p><strong>Thời gian thực tập:</strong> Từ ngày 17/04/2026 đến ngày 10/07/2026</p>
+  </div>
+</div>
 
 ---
 
