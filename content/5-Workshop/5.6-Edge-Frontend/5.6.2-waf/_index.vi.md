@@ -17,6 +17,7 @@ pre : " <b> 5.6.2. </b> "
 4. Đặt default action là **Allow** (managed rules sẽ chặn request độc hại).
 5. **Associate** Web ACL với CloudFront distribution của bạn (bước 3: filter request).
 
+![waf](/NTL0210-FACJ_Worklog/images/5-Workshop/5.6-Edge-Frontend/5.6.2-waf/waf.png)
 
 {{% notice note %}}
 Web ACL cho CloudFront phải được tạo ở **us-east-1**, dù phần còn lại của workshop ở ap-southeast-1. Đây là điều bình thường với tài nguyên global (edge).

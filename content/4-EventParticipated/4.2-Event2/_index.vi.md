@@ -13,6 +13,7 @@ pre: " <b> 4.2. </b> "
 **Địa điểm:** Văn phòng AWS Việt Nam  
 **Vai trò:** Người tham dự
 
+{{< figure src="/NTL0210-FACJ_Worklog/images/Event2.jpg" title="FCAJ Community Day 2026" >}}
 
 ## Hình ảnh sự kiện
 

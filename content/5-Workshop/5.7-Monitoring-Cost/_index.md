@@ -27,6 +27,7 @@ If the VPC/ALB/EC2 real-time layer is deployed, add metrics such as ALB 5xx, unh
 + Set CloudWatch Logs retention appropriately, such as 7-30 days during the demo phase.
 + For the production extension, EC2, ALB, NAT Gateway, and VPC Endpoint are billed hourly, so create them only when real testing is needed and clean them up after capturing screenshots.
 
+![lambda logs](/NTL0210-FACJ_Worklog/images/5-Workshop/5.7-Monitoring-Cost/lambda-logs.png)
 
 {{% notice tip %}}
 For evidence, capture CloudWatch Logs or a CloudWatch Dashboard. If a dashboard has not been created, a Lambda log group/log stream or a Step Functions execution view is enough to prove that the system can be monitored and debugged.

@@ -13,6 +13,7 @@ pre: " <b> 4.2. </b> "
 **Location:** AWS Vietnam Office  
 **Role:** Attendee
 
+{{< figure src="/NTL0210-FACJ_Worklog/images/Event2.jpg" title="FCAJ Community Day 2026" >}}
 
 ## Event Photos
 
