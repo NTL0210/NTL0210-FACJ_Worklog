@@ -17,11 +17,11 @@ Cách thiết kế này phù hợp với DynamoDB vì DynamoDB thường đượ
 3. Chọn capacity mode **On-demand** để phù hợp với giai đoạn demo/MVP.
 4. Giữ mã hóa khi lưu ở cấu hình mặc định.
 
-![dynamodb table](/images/5-Workshop/5.3-Managed-Services/5.3.2-dynamodb/tables.png)
+![dynamodb table](/NTL0210-FACJ_Worklog/images/5-Workshop/5.3-Managed-Services/5.3.2-dynamodb/tables.png)
 
 Sau khi backend hoặc pipeline AI chạy, mở **Explore table items** để kiểm tra dữ liệu meeting/task đã được ghi vào bảng.
 
-![dynamodb task item](/images/5-Workshop/5.3-Managed-Services/5.3.2-dynamodb/task-item.png)
+![dynamodb task item](/NTL0210-FACJ_Worklog/images/5-Workshop/5.3-Managed-Services/5.3.2-dynamodb/task-item.png)
 
 {{% notice note %}}
 Single-table design là cách thiết kế phổ biến trong DynamoDB. Khi hệ thống lớn hơn, có thể bổ sung GSI hoặc tách thêm bảng nếu access pattern thay đổi.

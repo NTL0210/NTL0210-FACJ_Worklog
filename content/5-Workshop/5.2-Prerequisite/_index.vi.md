@@ -15,7 +15,7 @@ Chuẩn bị các mục sau trước khi xây dựng nền tảng AI Meeting Wor
 + Nếu triển khai thêm kiến trúc production/Chat & Voice realtime, tài khoản cần thêm quyền cho VPC, EC2, Elastic Load Balancing, Auto Scaling, NAT Gateway, VPC Endpoint, WAF và SNS.
 + Thực hiện các tài nguyên theo region tại **Asia Pacific (Singapore) — ap-southeast-1**. CloudFront là dịch vụ global.
 
-![region](/images/5-Workshop/5.2-Prerequisite/region.png)
+![region](/NTL0210-FACJ_Worklog/images/5-Workshop/5.2-Prerequisite/region.png)
 
 **Công cụ máy cá nhân**
 + **AWS CLI v2** (đã cấu hình bằng `aws configure`).

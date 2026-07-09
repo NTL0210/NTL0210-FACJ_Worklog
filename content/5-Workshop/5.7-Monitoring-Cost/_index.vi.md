@@ -27,7 +27,7 @@ Nếu triển khai thêm VPC/ALB/EC2 realtime, bổ sung các chỉ số như AL
 + CloudWatch Logs nên đặt retention phù hợp, ví dụ 7-30 ngày trong giai đoạn demo.
 + Với phần production extension, EC2, ALB, NAT Gateway và VPC Endpoint tính phí theo giờ, nên chỉ tạo khi cần test thật và nhớ dọn dẹp sau khi chụp ảnh.
 
-![lambda logs](/images/5-Workshop/5.7-Monitoring-Cost/lambda-logs.png)
+![lambda logs](/NTL0210-FACJ_Worklog/images/5-Workshop/5.7-Monitoring-Cost/lambda-logs.png)
 
 {{% notice tip %}}
 Ảnh minh chứng nên chụp ở CloudWatch Logs hoặc CloudWatch Dashboard. Nếu chưa tạo dashboard, chỉ cần chụp log group/log stream của Lambda hoặc Step Functions execution là đủ để chứng minh hệ thống có giám sát và debug được.
