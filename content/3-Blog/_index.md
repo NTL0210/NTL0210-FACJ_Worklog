@@ -8,55 +8,55 @@ pre: " <b> 3. </b> "
 
 # Blog Posts
 
-During my 12-week internship at FCJ, I documented key learnings and experiences through blog posts. These posts share insights about AWS Serverless architecture, real-time communication challenges, and production deployment experiences.
+During my 12-week internship at FCJ, I documented key learnings and experiences through blog posts. These posts share insights about AI-assisted development tools, AWS security technologies, and cost optimization strategies.
 
 ---
 
 ## Blog Overview
 
-Throughout the internship, I wrote three comprehensive technical blog posts covering different aspects of building production-ready serverless applications on AWS:
+Throughout the internship, I wrote three comprehensive technical blog posts covering different aspects of modern cloud development and AWS services:
 
-### [3.1. Building Serverless Applications with AWS Lambda and DynamoDB](3.1-blog1/)
-Learn about serverless architecture design, DynamoDB single-table patterns, and best practices for building scalable multi-tenant applications.
+### [3.1. KIRO – AWS AI Coding Assistant and AI-Assisted Development Lifecycle](3.1-blog1/)
+Explore how AI coding assistants like KIRO are transforming software development with intelligent code generation, real-time assistance, and automated workflows.
 
 **Key Topics:**
-- AWS Lambda optimization techniques
-- DynamoDB single-table design
-- Cold start reduction strategies
-- Multi-tenant data isolation
-- Cost optimization
+- AI-assisted development lifecycle
+- KIRO's core capabilities and features
+- Property-based testing integration
+- Workflow automation and task orchestration
+- Future of AI in software development
 
 ---
 
-### [3.2. Real-time Voice Communication with WebRTC on AWS](3.2-blog2/)
-Deep dive into implementing WebRTC-based voice chat system with custom signaling server on AWS infrastructure.
+### [3.2. Running Traditional Web Applications on AWS Nitro Enclaves](3.2-blog2/)
+Learn how to deploy traditional web applications in AWS Nitro Enclaves for enhanced security and isolation in sensitive processing environments.
 
 **Key Topics:**
-- WebRTC peer-to-peer architecture
-- Signaling server implementation
-- NAT traversal with STUN/TURN
-- CloudFront WebSocket configuration
-- Connection management patterns
+- AWS Nitro Enclaves architecture
+- Migrating Flask applications to enclaves
+- Secure communication with vsock
+- Production deployment considerations
+- Security best practices
 
 ---
 
-### [3.3. Debugging Production Issues on CloudFront CDN](3.3-blog3/)
-Real-world debugging experience fixing critical production issues after deploying to CloudFront CDN.
+### [3.3. AWS Cost Estimation with AWS Pricing Calculator](3.3-blog3/)
+Master AWS cost estimation using the AWS Pricing Calculator to plan budgets, compare options, and optimize cloud spending before deployment.
 
 **Key Topics:**
-- Authentication cookie configuration
-- WebSocket connection stability
-- CORS and cross-origin issues
-- IAM permissions troubleshooting
-- Production monitoring strategies
+- AWS Pricing Calculator features
+- Cost estimation workflows
+- EC2 pricing comparison
+- Reserved Instances vs On-Demand
+- Cost optimization strategies
 
 ---
 
 ## Technical Impact
 
-These blog posts document real challenges and solutions from building the AI Meeting Workforce Platform, providing valuable insights for anyone working with AWS serverless architecture, real-time communication, or CloudFront deployments.
+These blog posts document practical insights from exploring cutting-edge AWS technologies and development tools, providing valuable guidance for anyone working with AI-assisted development, secure computing environments, or AWS cost management.
 
-**Total Readers:** Shared with FCJ community and AWS Study Group  
-**Technologies Covered:** AWS Lambda, DynamoDB, WebRTC, CloudFront, API Gateway, Cognito  
+**Shared with:** FCJ community and AWS Study Group VN  
+**Technologies Covered:** KIRO, AWS Nitro Enclaves, AWS Pricing Calculator, EC2, Flask  
 **Project Duration:** 12 weeks (April 17 - July 10, 2026)
 

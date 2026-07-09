@@ -8,54 +8,54 @@ pre: " <b> 3. </b> "
 
 # Bài viết Blog
 
-Trong 12 tuần thực tập tại FCJ, tôi đã ghi chép các bài học và kinh nghiệm quan trọng thông qua các bài viết blog. Những bài viết này chia sẻ thông tin chi tiết về kiến trúc AWS Serverless, thách thức giao tiếp thời gian thực và kinh nghiệm triển khai production.
+Trong 12 tuần thực tập tại FCJ, tôi đã ghi chép các bài học và kinh nghiệm quan trọng thông qua các bài viết blog. Những bài viết này chia sẻ thông tin chi tiết về công cụ phát triển hỗ trợ AI, công nghệ bảo mật AWS, và chiến lược tối ưu chi phí.
 
 ---
 
 ## Tổng quan Blog
 
-Trong suốt thời gian thực tập, tôi đã viết ba bài blog kỹ thuật toàn diện về các khía cạnh khác nhau của việc xây dựng ứng dụng serverless sẵn sàng cho production trên AWS:
+Trong suốt thời gian thực tập, tôi đã viết ba bài blog kỹ thuật toàn diện về các khía cạnh khác nhau của phát triển đám mây hiện đại và dịch vụ AWS:
 
-### [3.1. Xây dựng Ứng dụng Serverless với AWS Lambda và DynamoDB](3.1-blog1/)
-Tìm hiểu về thiết kế kiến trúc serverless, mẫu single-table DynamoDB, và best practices để xây dựng ứng dụng đa người thuê có khả năng mở rộng.
+### [3.1. KIRO – AI Coding Assistant của AWS và Vòng đời Phát triển hỗ trợ AI](3.1-blog1/)
+Khám phá cách các trợ lý lập trình AI như KIRO đang biến đổi phát triển phần mềm với tạo mã thông minh, hỗ trợ thời gian thực và quy trình làm việc tự động.
 
 **Chủ đề chính:**
-- Kỹ thuật tối ưu hóa AWS Lambda
-- Thiết kế single-table DynamoDB
-- Chiến lược giảm cold start
-- Cách ly dữ liệu đa người thuê
-- Tối ưu hóa chi phí
+- Vòng đời phát triển hỗ trợ AI
+- Khả năng và tính năng cốt lõi của KIRO
+- Tích hợp property-based testing
+- Tự động hóa quy trình và điều phối tác vụ
+- Tương lai của AI trong phát triển phần mềm
 
 ---
 
-### [3.2. Giao tiếp Voice Thời gian thực với WebRTC trên AWS](3.2-blog2/)
-Tìm hiểu sâu về triển khai hệ thống voice chat dựa trên WebRTC với signaling server tùy chỉnh trên hạ tầng AWS.
+### [3.2. Chạy ứng dụng Web truyền thống trên AWS Nitro Enclaves](3.2-blog2/)
+Tìm hiểu cách triển khai ứng dụng web truyền thống trong AWS Nitro Enclaves để tăng cường bảo mật và cách ly trong môi trường xử lý nhạy cảm.
 
 **Chủ đề chính:**
-- Kiến trúc peer-to-peer WebRTC
-- Triển khai signaling server
-- NAT traversal với STUN/TURN
-- Cấu hình WebSocket CloudFront
-- Mẫu quản lý kết nối
+- Kiến trúc AWS Nitro Enclaves
+- Di chuyển ứng dụng Flask vào enclaves
+- Giao tiếp bảo mật với vsock
+- Cân nhắc triển khai production
+- Best practices về bảo mật
 
 ---
 
-### [3.3. Gỡ lỗi Vấn đề Production trên CloudFront CDN](3.3-blog3/)
-Kinh nghiệm gỡ lỗi thực tế sửa các vấn đề production nghiêm trọng sau khi triển khai lên CloudFront CDN.
+### [3.3. Ước tính Chi phí AWS với AWS Pricing Calculator](3.3-blog3/)
+Làm chủ ước tính chi phí AWS sử dụng AWS Pricing Calculator để lập kế hoạch ngân sách, so sánh lựa chọn và tối ưu chi tiêu đám mây trước khi triển khai.
 
 **Chủ đề chính:**
-- Cấu hình authentication cookie
-- Tính ổn định kết nối WebSocket
-- Vấn đề CORS và cross-origin
-- Gỡ lỗi IAM permissions
-- Chiến lược giám sát production
+- Tính năng AWS Pricing Calculator
+- Quy trình ước tính chi phí
+- So sánh giá EC2
+- Reserved Instances vs On-Demand
+- Chiến lược tối ưu chi phí
 
 ---
 
 ## Tác động Kỹ thuật
 
-Những bài blog này ghi lại các thách thức và giải pháp thực tế từ việc xây dựng AI Meeting Workforce Platform, cung cấp những hiểu biết có giá trị cho bất kỳ ai làm việc với kiến trúc serverless AWS, giao tiếp thời gian thực, hoặc triển khai CloudFront.
+Những bài blog này ghi lại những hiểu biết thực tế từ việc khám phá các công nghệ AWS tiên tiến và công cụ phát triển, cung cấp hướng dẫn có giá trị cho bất kỳ ai làm việc với phát triển hỗ trợ AI, môi trường điện toán bảo mật, hoặc quản lý chi phí AWS.
 
-**Tổng số Độc giả:** Được chia sẻ với cộng đồng FCJ và AWS Study Group  
-**Công nghệ được đề cập:** AWS Lambda, DynamoDB, WebRTC, CloudFront, API Gateway, Cognito  
+**Được chia sẻ với:** Cộng đồng FCJ và AWS Study Group VN  
+**Công nghệ được đề cập:** KIRO, AWS Nitro Enclaves, AWS Pricing Calculator, EC2, Flask  
 **Thời gian Dự án:** 12 tuần (17/4 - 10/7/2026)

@@ -1,184 +1,270 @@
 ---
-title: "Gỡ lỗi Vấn đề Production trên CloudFront CDN"
+title: "Ước tính Chi phí AWS với AWS Pricing Calculator"
 date: 2025-01-15
 weight: 3
 chapter: false
 pre: " <b> 3.3. </b> "
 ---
 
-# Gỡ lỗi Vấn đề Production trên CloudFront CDN
+# Ước tính Chi phí AWS với AWS Pricing Calculator
 
-{{< figure src="/NTL0210-FACJ_Worklog/images/blog3.png" title="Quy trình Gỡ lỗi CloudFront" >}}
+{{< figure src="/NTL0210-FACJ_Worklog/images/blog3.png" title="AWS Pricing Calculator" >}}
 
-Tuần 11 trong thời gian thực tập tại FCJ của tôi rất căng thẳng—sau khi triển khai ứng dụng serverless lên CloudFront, nhiều vấn đề production xuất hiện. Bài viết này ghi lại hành trình gỡ lỗi và bài học rút ra từ triển khai production.
+Chào anh em AWS Study Group VN!
 
----
+Trong quá trình học và thực hành AWS, mình nhận ra một câu hỏi xuất hiện rất thường xuyên:
 
-## Kịch bản Triển khai
+> **"Triển khai một dịch vụ sẽ tốn bao nhiêu tiền mỗi tháng?"**
 
-Sau 10 tuần phát triển local, đã đến lúc triển khai lên production:
-- **Frontend**: Next.js static site trên CloudFront + S3
-- **Backend**: Express.js Lambda functions đằng sau API Gateway
-- **Real-time**: WebRTC signaling server trên Lambda riêng
-- **Authentication**: AWS Cognito với JWT tokens
+Thay vì tạo tài nguyên thật rồi chờ hóa đơn cuối tháng, AWS cung cấp một công cụ miễn phí giúp chúng ta ước tính chi phí trước khi triển khai, đó là **AWS Pricing Calculator**.
 
-Mọi thứ hoạt động hoàn hảo trong phát triển local (`localhost:3000`). Sau đó tôi triển khai lên CloudFront...
+Trong bài viết này, mình sẽ chia sẻ cách sử dụng AWS Pricing Calculator để tính chi phí cho một EC2 cơ bản.
 
 ---
 
-## Chuỗi Vấn đề
+## 1. AWS PRICING CALCULATOR LÀ GÌ?
 
-**Bốn Lỗi Production Nghiêm trọng:**
-1. ❌ **Login thất bại** - Người dùng không thể xác thực
-2. ❌ **Voice chat thất bại** - Kết nối WebRTC không thiết lập được
-3. ❌ **Text chat không ổn định** - Tin nhắn bị mất hoặc trễ
-4. ❌ **Workspace invitations thất bại** - Email mời không gửi được
+**AWS Pricing Calculator** là công cụ cho phép bạn tạo các kịch bản cho khối lượng công việc mới hoặc thay đổi khối lượng công việc hiện có để ước tính chi phí.
+
+### Đặc điểm:
+
+✅ **Miễn phí hoàn toàn**: Không mất phí sử dụng công cụ  
+✅ **Không cần đăng nhập AWS**: Có thể sử dụng ngay trên trình duyệt  
+✅ **Hỗ trợ nhiều dịch vụ**: EC2, S3, RDS, Lambda, và hàng trăm dịch vụ AWS khác  
+✅ **Chia sẻ estimate**: Có thể export hoặc chia sẻ link với team
 
 ---
 
-## Vấn đề 1: Lỗi Xác thực Login
+## 2. VÌ SAO NÊN SỬ DỤNG AWS PRICING CALCULATOR?
 
-### Nguyên nhân Gốc:
-- Backend đã đặt cookie với `domain=localhost`
-- CloudFront domain không khớp
-- CORS headers chưa đầy đủ
+Theo mình, công cụ này hữu ích trong các trường hợp:
 
-### Giải pháp:
-```javascript
-// backend/auth.js
-const DOMAIN = process.env.NODE_ENV === 'production' 
-  ? '.cloudfront.net'  // Khớp với CloudFront domain
-  : 'localhost';
+### Lập kế hoạch Chi phí
 
-res.cookie('auth_token', token, {
-  httpOnly: true,
-  secure: true,
-  sameSite: 'none', // Bắt buộc cho cross-origin
-  domain: DOMAIN,
-  maxAge: 7 * 24 * 60 * 60 * 1000 // 7 ngày
-});
+- Ước tính được chi phí trước khi triển khai hệ thống
+- Lập kế hoạch ngân sách cho dự án
+- So sánh chi phí giữa các tùy chọn khác nhau
+
+### Chia sẻ với Team
+
+- Chia sẻ estimate với khách hàng hoặc thành viên trong nhóm
+- Export thành PDF hoặc CSV cho báo cáo
+- Lưu lại các kịch bản để tham khảo sau
+
+### Tối ưu Chi phí
+
+- So sánh các instance types khác nhau
+- Đánh giá tác động của Reserved Instances hoặc Savings Plans
+- Tính toán chi phí khi scale up/down
+
+---
+
+## 3. QUY TRÌNH SỬ DỤNG AWS PRICING CALCULATOR
+
+Theo bài viết của AWS, quy trình triển khai có thể tóm tắt như sau:
+
+### Bước 1: Truy cập AWS Pricing Calculator
+
+Truy cập: [https://calculator.aws](https://calculator.aws)
+
+Không cần đăng nhập AWS Account.
+
+### Bước 2: Tạo Estimate
+
+Click **"Create estimate"** để bắt đầu.
+
+### Bước 3: Chọn dịch vụ cần tính chi phí
+
+- Tìm kiếm dịch vụ (ví dụ: EC2, S3, RDS)
+- Click **"Configure"** trên dịch vụ muốn thêm
+
+### Bước 4: Nhập các thông số
+
+Đối với EC2, các thông số cần nhập:
+
+#### Location (Region)
+- Chọn AWS Region (ví dụ: Asia Pacific - Singapore)
+- Chi phí khác nhau giữa các regions
+
+#### Instance Type
+- Family: General Purpose, Compute Optimized, Memory Optimized...
+- Size: t3.micro, t3.small, t3.medium...
+- vCPUs và Memory
+
+#### Operating System
+- Linux, Windows, RHEL, SUSE...
+- Windows thường đắt hơn Linux
+
+#### Workload
+- **On-Demand**: Trả theo giờ, linh hoạt
+- **Reserved Instances**: Cam kết 1-3 năm, tiết kiệm 30-70%
+- **Savings Plans**: Linh hoạt hơn RI, tiết kiệm đến 72%
+- **Spot Instances**: Giá thấp nhất nhưng có thể bị gián đoạn
+
+#### Utilization
+- Số giờ chạy mỗi ngày
+- Số ngày chạy mỗi tháng
+
+#### Storage
+- EBS Volume Type: gp3, gp2, io2, st1...
+- Storage Amount (GB)
+- IOPS và Throughput (nếu cần)
+
+#### Data Transfer
+- Data Transfer Out to Internet
+- Data Transfer between Regions
+- Elastic IP (nếu sử dụng)
+
+### Bước 5: Review Estimate
+
+Sau khi nhập đủ thông số, AWS Pricing Calculator sẽ hiển thị:
+
+- **Monthly cost**: Chi phí hàng tháng ước tính
+- **12 months total**: Tổng chi phí 12 tháng
+- **Breakdown by service**: Chi tiết theo từng thành phần
+
+### Bước 6: Thêm dịch vụ khác (nếu cần)
+
+Có thể tiếp tục thêm các dịch vụ khác như:
+- S3 for storage
+- RDS for database
+- CloudFront for CDN
+- Lambda for serverless functions
+
+### Bước 7: Lưu và Chia sẻ
+
+- **Save estimate**: Tạo link chia sẻ
+- **Export to PDF**: Xuất báo cáo PDF
+- **Export to CSV**: Xuất dữ liệu Excel
+
+---
+
+## 4. VÍ DỤ THỰC TẾ: TÍNH CHI PHÍ EC2
+
+Giả sử mình muốn triển khai một Web Server với cấu hình:
+
+### Cấu hình:
+
+- **Region**: Asia Pacific (Singapore)
+- **Instance Type**: t3.medium (2 vCPUs, 4 GB RAM)
+- **OS**: Amazon Linux (free)
+- **Workload**: On-Demand
+- **Usage**: 24 hours/day, 30 days/month
+- **Storage**: 30 GB gp3
+- **Data Transfer Out**: 100 GB/month
+
+### Kết quả ước tính:
+
+```
+EC2 Instance Cost:          $30.40/month
+EBS Storage (30 GB gp3):    $2.40/month
+Data Transfer Out (100 GB): $9.00/month
+─────────────────────────────────────────
+TOTAL:                      $41.80/month
 ```
 
-**Kết quả:** ✅ Login hoạt động, cookies tồn tại qua các requests
+### So sánh với Reserved Instance (1 year):
 
----
-
-## Vấn đề 2: Lỗi WebRTC Voice Chat
-
-### Nguyên nhân Gốc:
-- API Gateway WebSocket timeout (30 giây qua CloudFront)
-- Thiếu WebSocket upgrade headers
-- Origin sai cho STUN/TURN
-
-### Giải pháp:
-1. Cấu hình CloudFront WebSocket timeout lên 3600 giây
-2. Triển khai cơ chế heartbeat ping/pong
-3. Sử dụng public STUN servers trong production
-
-**Kết quả:** ✅ Voice chat kết nối ổn định, WebSocket luôn sống
-
----
-
-## Vấn đề 3: Text Chat Không Ổn định
-
-### Nguyên nhân Gốc:
-- Không có logic tự động reconnection
-- CloudFront đóng kết nối WebSocket idle
-- Không có queuing cho tin nhắn thất bại
-
-### Giải pháp:
-Triển khai tự động reconnection với exponential backoff và message queuing.
-
-**Kết quả:** ✅ Tin nhắn gửi đi đáng tin cậy, tự động reconnection hoạt động
-
----
-
-## Vấn đề 4: Lỗi Gửi Email Workspace Invitation
-
-### Nguyên nhân Gốc:
-Lambda function không thể gửi email qua AWS SES do thiếu IAM permissions.
-
-### Giải pháp:
-```json
-// IAM policy cho Lambda execution role
-{
-  "Version": "2012-10-17",
-  "Statement": [
-    {
-      "Effect": "Allow",
-      "Action": [
-        "ses:SendEmail",
-        "ses:SendRawEmail"
-      ],
-      "Resource": "*"
-    }
-  ]
-}
+```
+EC2 Instance Cost:          $20.00/month (-34%)
+EBS Storage (30 GB gp3):    $2.40/month
+Data Transfer Out (100 GB): $9.00/month
+─────────────────────────────────────────
+TOTAL:                      $31.40/month
+SAVINGS:                    $10.40/month ($124.80/year)
 ```
 
-**Kết quả:** ✅ Email mời được gửi thành công
+---
+
+## 5. MỘT SỐ LƯU Ý
+
+### AWS Pricing Calculator chỉ cung cấp chi phí ước tính
+
+Chi phí thực tế có thể thay đổi tùy thuộc vào:
+
+⚠️ **Mức sử dụng thực tế**: Nếu sử dụng nhiều hơn dự kiến  
+⚠️ **Lưu lượng mạng phát sinh**: Data transfer có thể tăng đột biến  
+⚠️ **Các dịch vụ bổ sung**: Backup, Snapshot, Elastic IP...  
+⚠️ **Thay đổi về giá dịch vụ theo Region**: AWS có thể điều chỉnh giá
+
+### Không bao gồm Free Tier
+
+AWS Pricing Calculator **KHÔNG tự động áp dụng Free Tier**. Nếu bạn đang sử dụng Free Tier, chi phí thực tế sẽ thấp hơn estimate.
+
+**AWS Free Tier cho EC2:**
+- 750 hours/month t2.micro hoặc t3.micro
+- 30 GB EBS Storage
+- 15 GB Data Transfer Out
+
+### Một số chi phí ẩn cần lưu ý
+
+- **Elastic IP không sử dụng**: $0.005/hour
+- **EBS Snapshots**: Tính theo GB-month
+- **Data Transfer giữa AZs**: $0.01/GB
+- **CloudWatch Logs**: Có thể phát sinh chi phí
 
 ---
 
-## Bài học Rút ra
+## 6. TIPS SỬ DỤNG HIỆU QUẢ
 
-1. **Local Development ≠ Production**
-   - Luôn test trong môi trường staging phản ánh production
-   - CloudFront có hành vi khác với localhost
+### Tip 1: Bắt đầu với On-Demand rồi tối ưu sau
 
-2. **Cấu hình Cookie rất Quan trọng**
-   - Cài đặt `domain`, `sameSite`, `secure` là then chốt
-   - Production cần `sameSite: 'none'` cho cross-origin cookies
+- Dùng On-Demand trong giai đoạn đầu
+- Theo dõi usage pattern 1-2 tháng
+- Chuyển sang Reserved Instances hoặc Savings Plans sau
 
-3. **WebSocket qua CDN Khó**
-   - CloudFront có idle timeout mặc định 30 giây
-   - Triển khai heartbeat ping/pong để giữ kết nối sống
+### Tip 2: So sánh nhiều scenarios
 
-4. **Luôn Triển khai Logic Reconnection**
-   - Mạng không đáng tin cậy, lên kế hoạch cho disconnections
-   - Exponential backoff ngăn server quá tải
+- Tạo nhiều estimates với cấu hình khác nhau
+- So sánh chi phí và hiệu năng
+- Chọn phương án phù hợp với ngân sách
 
-5. **IAM Permissions Không Tùy chọn**
-   - Mỗi dịch vụ AWS cần permissions rõ ràng
-   - Giám sát CloudWatch logs cho permission errors
+### Tip 3: Sử dụng Tags để group services
 
-6. **Giám sát Mọi thứ trong Production**
-   - CloudWatch logs đã tiết kiệm thời gian gỡ lỗi
-   - Giám sát thời gian thực giúp phát hiện vấn đề sớm
+- Đặt tên rõ ràng cho từng service trong estimate
+- Group theo môi trường: Dev, Staging, Production
+- Dễ dàng theo dõi và so sánh
 
----
+### Tip 4: Export và lưu trữ estimates
 
-## Bộ công cụ Gỡ lỗi
-
-**Công cụ Cần thiết Đã sử dụng:**
-1. **Browser DevTools** - Tab Network, tab Application, Console
-2. **AWS CloudWatch** - Lambda logs, API Gateway logs, Custom metrics
-3. **Postman / cURL** - Test API endpoints trực tiếp
-4. **WebSocket Test Clients** - Test kết nối WebSocket độc lập
+- Lưu lại các estimates cho từng dự án
+- Export PDF để đính kèm proposal
+- So sánh với hóa đơn thực tế để điều chỉnh
 
 ---
 
-## Kết luận
+## 7. TỔNG KẾT
 
-Triển khai lên CloudFront đã dạy tôi rằng **production là một thế giới khác**. Các vấn đề mà tôi gặp phải—authentication cookies, kết nối WebRTC, tính ổn định WebSocket, và quyền email—tất cả đều vô hình trong phát triển local nhưng quan trọng trong production.
+Theo mình, **AWS Pricing Calculator** là một công cụ hữu ích đối với bất kỳ ai đang học hoặc làm việc với AWS.
 
-Bài học quan trọng nhất: **Luôn có môi trường staging** phản ánh production. Test trên CloudFront staging trước sẽ đã phát hiện những vấn đề này trước khi chúng ảnh hưởng người dùng.
+### Lợi ích chính:
 
-Tuần 11 rất khó khăn, nhưng gỡ lỗi các vấn đề production này đã cho tôi kinh nghiệm vô giá về:
-- Phương pháp troubleshooting production
-- Hành vi và cấu hình CDN
-- Hạ tầng giao tiếp thời gian thực
-- Tích hợp dịch vụ AWS trong production
+✅ Ước tính chi phí trước khi triển khai  
+✅ So sánh các lựa chọn khác nhau  
+✅ Lập kế hoạch ngân sách chi tiết  
+✅ Chia sẻ với team và khách hàng  
+✅ Tối ưu hóa chi phí AWS
 
-Những bài học này sẽ ở lại với tôi trong suốt sự nghiệp của tôi trong cloud engineering.
+Thay vì triển khai tài nguyên rồi mới kiểm tra chi phí, chúng ta có thể chủ động ước tính trước ngân sách, so sánh các lựa chọn và đưa ra quyết định phù hợp ngay từ giai đoạn thiết kế hệ thống.
+
+Nếu anh em đã từng sử dụng AWS Pricing Calculator hoặc có kinh nghiệm về tối ưu chi phí trên AWS thì có thể chia sẻ thêm ở phần bình luận nhé.
+
+---
+
+## NGUỒN THAM KHẢO
+
+* [AWS Pricing Calculator](https://calculator.aws)
+* [AWS Pricing Calculator Documentation](https://aws.amazon.com/premiumsupport/knowledge-center/estimate-aws-monthly-billing-cost/)
+* [AWS Free Tier](https://aws.amazon.com/free/)
+* [AWS Cost Management](https://aws.amazon.com/aws-cost-management/)
 
 ---
 
 ## Bài viết Liên quan
 
-- [Xây dựng Ứng dụng Serverless với AWS Lambda và DynamoDB](../3.1-blog1/)
-- [Giao tiếp Voice Thời gian thực với WebRTC trên AWS](../3.2-blog2/)
+- [KIRO – AI Coding Assistant của AWS](../3.1-blog1/)
+- [Chạy ứng dụng Web truyền thống trên AWS Nitro Enclaves](../3.2-blog2/)
 
 ---
 
-*Được viết trong 12 tuần thực tập tại FCJ (17/4 - 10/7/2026) như một phần của dự án AI Meeting Workforce Platform.*
+*Được viết trong thời gian thực tập tại FCJ (17/4 - 10/7/2026) và chia sẻ với AWS Study Group VN.*

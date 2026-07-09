@@ -35,4 +35,5 @@ chapter: false
 2. [Proposal](2-Proposal/)
 3. [Blog Posts](3-Blog/)
 4. [Events Participated](4-EventParticipated/)
-5. [Self-evaluation](6-Self-evaluation/)
+5. [Workshop](5-Workshop/)
+6. [Self-evaluation](6-Self-evaluation/)
