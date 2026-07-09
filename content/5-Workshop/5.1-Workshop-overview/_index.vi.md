@@ -22,7 +22,7 @@ Nền tảng được chia thành các nhóm dịch vụ sau:
 
 Các thành phần như VPC, ALB, EC2 Auto Scaling, NAT Gateway và DynamoDB VPC Endpoint trong sơ đồ kiến trúc là hướng mở rộng cho trường hợp cần dịch vụ Chat & Voice realtime chạy liên tục trong production. Nếu chưa triển khai các thành phần này trong tài khoản AWS, hãy ghi rõ là **thiết kế mở rộng** thay vì phần đã hoàn thành.
 
-![architecture](/NTL0210-FACJ_Worklog/images/5-Workshop/5.1-Workshop-overview/architecture.png)
+![architecture](/images/5-Workshop/5.1-Workshop-overview/architecture.png)
 
 #### Luồng end-to-end của MVP
 

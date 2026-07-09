@@ -22,7 +22,7 @@ The platform is organized into the following service groups:
 
 Components such as VPC, ALB, EC2 Auto Scaling, NAT Gateway, and DynamoDB VPC Endpoint in the architecture diagram are extension items for a production scenario where the Chat & Voice service needs to run continuously in real time. If those components are not deployed in the AWS account, they should be described as **extension design** rather than completed implementation.
 
-![architecture](/NTL0210-FACJ_Worklog/images/5-Workshop/5.1-Workshop-overview/architecture.png)
+![architecture](/images/5-Workshop/5.1-Workshop-overview/architecture.png)
 
 #### MVP end-to-end flow
 

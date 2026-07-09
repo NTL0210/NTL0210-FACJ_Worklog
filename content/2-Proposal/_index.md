@@ -23,9 +23,9 @@ The AI Meeting Workforce Platform is a comprehensive solution designed to transf
 - **Database:** Amazon DynamoDB with single-table design
 - **Storage:** Amazon S3 with lifecycle policies
 - **Authentication:** AWS Cognito
-- **AI Processing:** AWS Transcribe, Google Gemini/OpenAI
+- **AI Processing:**  Google Gemini/OpenAI
 - **Real-time:** WebRTC, Socket.io, Custom signaling server
-- **Deployment:** AWS Amplify, CloudFront
+- **Deployment:**  CloudFront
 
 **Key Features Implemented:**
 - Multi-tenant workspace management with unlimited teams
@@ -76,72 +76,19 @@ The platform employs AWS Serverless Architecture with multi-tenancy support and 
 
 **High-Level Architecture:**
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                  FRONTEND (Next.js + CloudFront)                │
-│  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐       │
-│  │ Meeting  │  │  Voice   │  │  Tasks   │  │Workspace │       │
-│  │Dashboard │  │  Chat    │  │Management│  │Management│       │
-│  └────┬─────┘  └────┬─────┘  └────┬─────┘  └────┬─────┘       │
-└───────┼─────────────┼─────────────┼─────────────┼──────────────┘
-        │             │             │             │
-   ┌────┴─────┐       │             │             │
-   │ WebRTC   │       │             │             │
-   │Signaling │       │             │             │
-   │ Server   │       │             │             │
-   └──────────┘       │             │             │
-                      │             │             │
-┌─────────────────────┴─────────────┴─────────────┴──────────────┐
-│                API GATEWAY + LAMBDA                              │
-│  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐       │
-│  │ Meeting  │  │  Task    │  │  User    │  │Workspace │       │
-│  │  API     │  │   API    │  │   API    │  │   API    │       │
-│  └────┬─────┘  └────┬─────┘  └────┬─────┘  └────┬─────┘       │
-└───────┼─────────────┼─────────────┼─────────────┼──────────────┘
-        │             │             │             │
-┌───────┴─────────────┴─────────────┴─────────────┴──────────────┐
-│                       DYNAMODB                                   │
-│  ┌──────────────────────────────────────────────────────┐      │
-│  │  Main Table: ai-meeting-workforce-{env}              │      │
-│  │  - PK/SK for main access patterns                    │      │
-│  │  - GSI1: workspace + timestamp queries               │      │
-│  │  - GSI2: workspace + assignee queries                │      │
-│  └──────────────────────────────────────────────────────┘      │
-└─────────────────────────────────────────────────────────────────┘
-        │
-┌───────┴─────────────────────────────────────────────────────────┐
-│                  AI PROCESSING PIPELINE                          │
-│  ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐     │
-│  │  S3     │───▶│  Step   │───▶│ Lambda  │───▶│ Lambda  │     │
-│  │ Upload  │    │Functions│    │Transcribe│   │ AI LLM  │     │
-│  └─────────┘    └─────────┘    └─────────┘    └─────────┘     │
-│                                                      │           │
-│                                          ┌───────────▼────────┐ │
-│                                          │  Save to DynamoDB  │ │
-│                                          └────────────────────┘ │
-└─────────────────────────────────────────────────────────────────┘
-        │
-┌───────┴─────────────────────────────────────────────────────────┐
-│                 AUTHENTICATION & SECURITY                        │
-│  ┌──────────────────────────────────────────────────────┐      │
-│  │              AWS COGNITO USER POOL                    │      │
-│  │  - User signup/signin with JWT tokens                │      │
-│  │  - Pre-signup Lambda trigger                         │      │
-│  └──────────────────────────────────────────────────────┘      │
-└─────────────────────────────────────────────────────────────────┘
-```
+![High-Level Architecture](/NTL0210-FACJ_Worklog/images/arch1.png)
 
 #### AWS Services Used
 
-• **AWS Lambda**: Serverless compute for API logic and AI processing  
-• **Amazon DynamoDB**: NoSQL database with on-demand billing  
-• **Amazon S3**: Object storage for audio recordings and transcripts  
-• **AWS Step Functions**: Orchestrates AI processing pipeline  
-• **Amazon API Gateway**: REST API endpoints  
-• **AWS Cognito**: User authentication with JWT tokens  
-• **AWS Amplify & CloudFront**: Static site hosting and CDN  
-• **AWS Transcribe**: Automatic speech-to-text conversion  
-• **Amazon CloudWatch**: Logging and monitoring  
+• **AWS Lambda**: Serverless compute for API logic and AI processing
+• **Amazon DynamoDB**: NoSQL database with on-demand billing
+• **Amazon S3**: Object storage for audio recordings and transcripts
+• **AWS Step Functions**: Orchestrates AI processing pipeline
+• **Amazon API Gateway**: REST API endpoints
+• **AWS Cognito**: User authentication with JWT tokens
+• **AWS Amplify & CloudFront**: Static site hosting and CDN
+• **AWS Transcribe**: Automatic speech-to-text conversion
+• **Amazon CloudWatch**: Logging and monitoring
 • **AWS IAM**: Fine-grained access control
 
 ---
@@ -222,7 +169,7 @@ The platform employs AWS Serverless Architecture with multi-tenancy support and 
 
 **Challenge 2: CloudFront Deployment Errors**
 - **Problem**: Multiple errors when deploying to CloudFront (login, voice, chat, invitations)
-- **Root Causes**: 
+- **Root Causes**:
   - CORS headers not configured for CDN
   - Cookie security flags incompatible with CloudFront
   - WebRTC signaling server accessibility through CDN
@@ -361,8 +308,8 @@ The platform employs AWS Serverless Architecture with multi-tenancy support and 
 - **AWS Cognito**: $0/month (< 50,000 users free)
 - **CloudWatch Logs**: $1-3/month (optimized)
 
-**Total Monthly Cost: $27-61 USD**  
-**Average: ~$44/month during development**  
+**Total Monthly Cost: $27-61 USD**
+**Average: ~$44/month during development**
 **Total 3-Month Cost: ~$132 USD**
 
 #### Cost Optimization Strategies Implemented
@@ -738,17 +685,16 @@ Most importantly, this project proved that with proper guidance, structured lear
 
 #### C. Contact Information
 
-**Intern:** Nguyễn Tấn Lộc  
-**Student ID:** 2001210889  
-**University:** HUTECH (Ho Chi Minh City University of Technology)  
-**Position:** FCJ Cloud Intern  
-**Duration:** April 17, 2026 - July 10, 2026 (12 weeks)  
-**GitHub:** [NTL0210](https://github.com/NTL0210)  
+**Intern:** Nguyễn Tấn Lộc
+**Student ID:** 2001210889
+**University:** HUTECH (Ho Chi Minh City University of Technology)
+**Position:** FCJ Cloud Intern
+**Duration:** April 17, 2026 - July 10, 2026 (12 weeks)
+**GitHub:** [NTL0210](https://github.com/NTL0210)
 **Worklog Website:** [https://ntl0210.github.io/NTL0210-FACJ_Worklog/](https://ntl0210.github.io/NTL0210-FACJ_Worklog/)
 
 ---
 
-**Document Version:** 1.0  
-**Last Updated:** July 10, 2026  
+**Document Version:** 1.0
+**Last Updated:** July 10, 2026
 **Status:** Final Submission
-
