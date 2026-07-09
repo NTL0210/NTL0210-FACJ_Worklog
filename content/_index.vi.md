@@ -33,5 +33,6 @@ chapter: false
 
 1. [Nhật ký công việc](1-Worklog/)
 2. [Bản đề xuất](2-Proposal/)
-3. [Sự kiện đã tham gia](4-EventParticipated/)
-4. [Tự đánh giá](6-Self-evaluation/)
+3. [Bài viết Blog](3-Blog/)
+4. [Sự kiện đã tham gia](4-EventParticipated/)
+5. [Tự đánh giá](6-Self-evaluation/)
