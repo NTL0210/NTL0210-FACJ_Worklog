@@ -15,7 +15,7 @@ Prepare the following before building the AI Meeting Workforce platform.
 + If you also implement the production/real-time Chat & Voice architecture, the account needs additional permissions for VPC, EC2, Elastic Load Balancing, Auto Scaling, NAT Gateway, VPC Endpoint, WAF, and SNS.
 + Create regional resources in **Asia Pacific (Singapore) — ap-southeast-1**. CloudFront is a global service.
 
-![region](/NTL0210-FACJ_Worklog/images/5-Workshop/5.2-Prerequisite/region.png)
+![region](/images/5-Workshop/5.2-Prerequisite/region.png)
 
 **Local tools**
 + **AWS CLI v2** (configured with `aws configure`).

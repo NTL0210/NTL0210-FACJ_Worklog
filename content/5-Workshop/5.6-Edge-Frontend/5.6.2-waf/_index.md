@@ -17,7 +17,7 @@ pre : " <b> 5.6.2. </b> "
 4. Set the default action to **Allow** (managed rules block malicious requests).
 5. **Associate** the Web ACL with your CloudFront distribution (step 3: filter request).
 
-![waf](/NTL0210-FACJ_Worklog/images/5-Workshop/5.6-Edge-Frontend/5.6.2-waf/waf.png)
+![waf](/images/5-Workshop/5.6-Edge-Frontend/5.6.2-waf/waf.png)
 
 {{% notice note %}}
 A CloudFront-scoped Web ACL must be created in **us-east-1**, even though the rest of the workshop is in ap-southeast-1. This is expected for global (edge) resources.

@@ -15,11 +15,11 @@ Phần này hiện thực bước 5–8: dashboard gọi **API Gateway**, API Ga
 + Cấp execution role với quyền tối thiểu truy cập bảng `ai-meeting-api-data`.
 + Hiện thực các route nghiệp vụ (ví dụ `GET /me`, `POST /sessions`, `GET /tasks`, `POST /meetings`).
 
-![lambda api](/NTL0210-FACJ_Worklog/images/5-Workshop/5.3-Managed-Services/5.3.3-api-lambda-gateway/lambda-api.png)
+![lambda api](/images/5-Workshop/5.3-Managed-Services/5.3.3-api-lambda-gateway/lambda-api.png)
 
 Trong phần **Configuration → Environment variables**, cấu hình bucket audio, bảng DynamoDB, Cognito và AI model. Các giá trị secret như API key cần được che khi đưa vào báo cáo.
 
-![lambda env](/NTL0210-FACJ_Worklog/images/5-Workshop/5.3-Managed-Services/5.3.3-api-lambda-gateway/lambda-env.png)
+![lambda env](/images/5-Workshop/5.3-Managed-Services/5.3.3-api-lambda-gateway/lambda-env.png)
 
 **2. Tạo HTTP API trong API Gateway**
 + Mở **API Gateway** → **Create API** → **HTTP API**.
@@ -33,8 +33,8 @@ Trong phần **Configuration → Environment variables**, cấu hình bucket aud
 **4. Kiểm tra**
 + Đăng nhập một user thử trong Cognito, lấy token, và gọi một route được bảo vệ với `Authorization: Bearer <token>`.
 
-![api gateway](/NTL0210-FACJ_Worklog/images/5-Workshop/5.3-Managed-Services/5.3.3-api-lambda-gateway/http-api.png)
+![api gateway](/images/5-Workshop/5.3-Managed-Services/5.3.3-api-lambda-gateway/http-api.png)
 
 Sau khi deploy stage, ghi lại invoke URL để frontend gọi API.
 
-![api stage url](/NTL0210-FACJ_Worklog/images/5-Workshop/5.3-Managed-Services/5.3.3-api-lambda-gateway/api-stage-url.png)
+![api stage url](/images/5-Workshop/5.3-Managed-Services/5.3.3-api-lambda-gateway/api-stage-url.png)
