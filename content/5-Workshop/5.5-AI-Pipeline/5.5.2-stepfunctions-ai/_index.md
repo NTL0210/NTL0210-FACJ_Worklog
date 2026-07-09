@@ -14,12 +14,12 @@ pre : " <b> 5.5.2. </b> "
    + **Task Lambda** — receives the task list and writes it to `ai-meeting-task` (step 15).
    + Grant each Lambda only the permissions it needs (S3 read, Secrets Manager read, DynamoDB write, SNS publish).
 
-![save lambda](/images/5-Workshop/5.5-AI-Pipeline/5.5.2-stepfunctions-ai/save-lambda.png)
+![save lambda](/NTL0210-FACJ_Worklog/images/5-Workshop/5.5-AI-Pipeline/5.5.2-stepfunctions-ai/save-lambda.png)
 
 3. **Create the Step Functions state machine** (Standard) that runs: *Read bundle → Call AI → Save tasks → Notify*. Add **Retry** and **Catch** blocks so transient AI errors are retried and failures go to a dead-letter path.
 4. Set this state machine as the **target of the EventBridge rule** from 5.5.1.
 
-![step functions](/images/5-Workshop/5.5-AI-Pipeline/5.5.2-stepfunctions-ai/state-machine.png)
+![step functions](/NTL0210-FACJ_Worklog/images/5-Workshop/5.5-AI-Pipeline/5.5.2-stepfunctions-ai/state-machine.png)
 
 {{% notice tip %}}
 To control AI cost, cap the max output tokens, and consider batching or a lighter model for simple meetings. This is where most of the per-meeting AI cost is incurred.

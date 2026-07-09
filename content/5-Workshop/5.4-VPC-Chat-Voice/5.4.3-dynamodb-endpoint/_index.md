@@ -17,7 +17,7 @@ To let resources in private subnets access DynamoDB without traversing the publi
 5. Route tables: select the private route tables, for example `rt-private-a` and `rt-private-b`.
 6. Create the endpoint and verify that the state is **Available**.
 
-![dynamodb endpoint](/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.3-dynamodb-endpoint/endpoint.png)
+![dynamodb endpoint](/NTL0210-FACJ_Worklog/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.3-dynamodb-endpoint/endpoint.png)
 
 {{% notice note %}}
 A DynamoDB Gateway Endpoint is different from an Interface Endpoint: it is attached to route tables and does not create ENIs in subnets. This is the appropriate and cost-efficient option for DynamoDB/S3 access from a VPC.

@@ -21,19 +21,19 @@ Sau khi tạo, kiểm tra định tuyến:
 + Route table của public subnet trỏ `0.0.0.0/0` tới **Internet Gateway**.
 + Route table của mỗi private subnet trỏ `0.0.0.0/0` tới **NAT Gateway của chính AZ đó**.
 
-![vpc](/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/vpc.png)
+![vpc](/NTL0210-FACJ_Worklog/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/vpc.png)
 
 Sau khi tạo VPC, kiểm tra bốn subnet được chia thành public/private trên hai Availability Zone.
 
-![subnets](/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/subnets.png)
+![subnets](/NTL0210-FACJ_Worklog/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/subnets.png)
 
 Kiểm tra route table: public subnet đi ra Internet Gateway, private subnet đi ra NAT Gateway và có route tới VPC endpoint.
 
-![route tables](/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/route-tables.png)
+![route tables](/NTL0210-FACJ_Worklog/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/route-tables.png)
 
-![internet gateway](/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/internet-gateway.png)
+![internet gateway](/NTL0210-FACJ_Worklog/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/internet-gateway.png)
 
-![nat gateway](/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/nat-gateways.png)
+![nat gateway](/NTL0210-FACJ_Worklog/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/nat-gateways.png)
 
 {{% notice warning %}}
 Đảm bảo mỗi private subnet trỏ chiều ra tới NAT Gateway **cùng AZ**, không đi chéo AZ — vừa giữ tính sẵn sàng khi một AZ hỏng, vừa tránh phí truyền dữ liệu chéo AZ.

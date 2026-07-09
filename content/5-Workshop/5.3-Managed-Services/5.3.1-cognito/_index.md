@@ -18,11 +18,11 @@ Cognito authenticates users and issues the **JWT** that API Gateway will validat
 6. **App client:** create a **public client** for the Next.js dashboard (no client secret for a SPA). Set the callback and sign-out URLs to your CloudFront domain (you can update these later, in section 5.6).
 7. Create the pool and note the **User Pool ID** and **App Client ID** — you will use them in the dashboard and in the API Gateway authorizer.
 
-![cognito](/images/5-Workshop/5.3-Managed-Services/5.3.1-cognito/user-pool.png)
+![cognito](/NTL0210-FACJ_Worklog/images/5-Workshop/5.3-Managed-Services/5.3.1-cognito/user-pool.png)
 
 After creating the user pool, open **App integration** to verify the app client used by the dashboard.
 
-![cognito app client](/images/5-Workshop/5.3-Managed-Services/5.3.1-cognito/app-client.png)
+![cognito app client](/NTL0210-FACJ_Worklog/images/5-Workshop/5.3-Managed-Services/5.3.1-cognito/app-client.png)
 
 {{% notice note %}}
 For the dashboard, the JWT (ID/Access token) is attached as a `Bearer` token on API requests. API Gateway will verify it against this user pool (section 5.3.3).

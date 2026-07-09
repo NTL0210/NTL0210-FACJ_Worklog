@@ -13,7 +13,7 @@ pre : " <b> 5.5.3. </b> "
 3. Trong **Task Lambda** (hoặc một state cuối của Step Functions), sau khi lưu công việc, **publish** một message tới `ai-meeting-notify` tóm tắt ai được giao việc gì (bước 16).
 4. Cấp cho Lambda quyền `sns:Publish` trên topic đó.
 
-![sns notify](/images/5-Workshop/5.5-AI-Pipeline/5.5.3-notify-sns/sns.png)
+![sns notify](/NTL0210-FACJ_Worklog/images/5-Workshop/5.5-AI-Pipeline/5.5.3-notify-sns/sns.png)
 
 {{% notice note %}}
 Toàn trình, pipeline bây giờ là: **S3 bundle → EventBridge → Step Functions → AI → DynamoDB (Task) → SNS → người dùng**. Bạn sẽ kiểm thử toàn bộ chuỗi ở phần 5.8.

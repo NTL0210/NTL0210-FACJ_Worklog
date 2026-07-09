@@ -15,11 +15,11 @@ This implements steps 5–8: the dashboard calls **API Gateway**, which validate
 + Grant an execution role with least-privilege access to the `ai-meeting-api-data` table.
 + Implement your business routes (e.g. `GET /me`, `POST /sessions`, `GET /tasks`, `POST /meetings`).
 
-![lambda api](/images/5-Workshop/5.3-Managed-Services/5.3.3-api-lambda-gateway/lambda-api.png)
+![lambda api](/NTL0210-FACJ_Worklog/images/5-Workshop/5.3-Managed-Services/5.3.3-api-lambda-gateway/lambda-api.png)
 
 In **Configuration → Environment variables**, configure the audio bucket, DynamoDB table, Cognito settings, and AI model. Secret values such as API keys should be hidden in the report.
 
-![lambda env](/images/5-Workshop/5.3-Managed-Services/5.3.3-api-lambda-gateway/lambda-env.png)
+![lambda env](/NTL0210-FACJ_Worklog/images/5-Workshop/5.3-Managed-Services/5.3.3-api-lambda-gateway/lambda-env.png)
 
 **2. Create the HTTP API in API Gateway**
 + Open **API Gateway** → **Create API** → **HTTP API**.
@@ -33,8 +33,8 @@ In **Configuration → Environment variables**, configure the audio bucket, Dyna
 **4. Test**
 + Sign in a test user in Cognito, obtain a token, and call a protected route with `Authorization: Bearer <token>`.
 
-![api gateway](/images/5-Workshop/5.3-Managed-Services/5.3.3-api-lambda-gateway/http-api.png)
+![api gateway](/NTL0210-FACJ_Worklog/images/5-Workshop/5.3-Managed-Services/5.3.3-api-lambda-gateway/http-api.png)
 
 After deploying the stage, note the invoke URL used by the frontend.
 
-![api stage url](/images/5-Workshop/5.3-Managed-Services/5.3.3-api-lambda-gateway/api-stage-url.png)
+![api stage url](/NTL0210-FACJ_Worklog/images/5-Workshop/5.3-Managed-Services/5.3.3-api-lambda-gateway/api-stage-url.png)

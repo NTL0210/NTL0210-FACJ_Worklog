@@ -21,19 +21,19 @@ After creation, verify the routing:
 + Public subnet route tables send `0.0.0.0/0` to the **Internet Gateway**.
 + Each private subnet route table sends `0.0.0.0/0` to the **NAT Gateway in its own AZ**.
 
-![vpc](/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/vpc.png)
+![vpc](/NTL0210-FACJ_Worklog/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/vpc.png)
 
 After creating the VPC, verify the four subnets split into public/private subnets across two Availability Zones.
 
-![subnets](/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/subnets.png)
+![subnets](/NTL0210-FACJ_Worklog/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/subnets.png)
 
 Check the route tables: public subnets route to the Internet Gateway, while private subnets route to the NAT Gateway and VPC endpoints.
 
-![route tables](/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/route-tables.png)
+![route tables](/NTL0210-FACJ_Worklog/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/route-tables.png)
 
-![internet gateway](/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/internet-gateway.png)
+![internet gateway](/NTL0210-FACJ_Worklog/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/internet-gateway.png)
 
-![nat gateway](/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/nat-gateways.png)
+![nat gateway](/NTL0210-FACJ_Worklog/images/5-Workshop/5.4-VPC-Chat-Voice/5.4.1-vpc-network/nat-gateways.png)
 
 {{% notice warning %}}
 Make sure each private subnet routes egress to the NAT Gateway **in the same AZ**, not across AZs — this preserves availability if one AZ fails and avoids cross-AZ data charges.
