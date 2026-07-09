@@ -1,9 +1,9 @@
 ---
 title: "Tự đánh giá"
 date: 2026-04-17
-weight: 3
+weight: 5
 chapter: false
-pre: " <b> 3. </b> "
+pre: " <b> 5. </b> "
 ---
 
 Trong suốt thời gian thực tập tại **[Tên công ty]** từ **[Ngày bắt đầu]** đến **[Ngày kết thúc]**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.
