@@ -1,9 +1,9 @@
 ---
 title: "Self-evaluation"
 date: 2026-04-17
-weight: 5
+weight: 6
 chapter: false
-pre: " <b> 5. </b> "
+pre: " <b> 6. </b> "
 ---
 
 Throughout my internship at **[Company Name]** from **[Start Date]** to **[End Date]**, I had the opportunity to learn, practice, and apply the knowledge I gained at university to a real work environment.
