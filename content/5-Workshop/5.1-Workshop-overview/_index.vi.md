@@ -1,7 +1,7 @@
 ---
 title : "Giới thiệu"
-date : 2026-01-01 
-weight : 1 
+date : 2026-01-01
+weight : 1
 chapter : false
 pre : " <b> 5.1. </b> "
 ---
@@ -53,3 +53,17 @@ Region chính nên dùng cho workshop là **Asia Pacific (Singapore) — ap-sout
 | Frontend | CloudFront distribution status `Deployed` và URL dashboard | Chứng minh frontend đã được phân phối |
 | Monitoring | CloudWatch log group/log stream của Lambda hoặc Step Functions | Chứng minh có log để debug và vận hành |
 | Kiểm thử cuối | Màn hình dashboard sau đăng nhập và danh sách task | Chứng minh luồng end-to-end hoạt động |
+
+
+#### Video demo và đường dẫn triển khai
+
+Bạn có thể tham khảo quá trình triển khai và kết quả hoạt động của hệ thống thông qua các đường dẫn sau:
+
+* **Video demo trên YouTube:** [Xem video demo](https://youtu.be/784lTQMB2YU)
+* **Thư mục Google Drive:** [Xem tài liệu và video demo trên Google Drive](https://drive.google.com/drive/folders/1x4Vyloh-aehE30BazEi0He-9aIlA4sjj?usp=sharing)
+* **Website triển khai:** [Truy cập AI Meeting Workforce Platform](https://d1gdsnv8exdah.cloudfront.net/login/)
+
+{{% notice warning %}}
+Website demo dự kiến chỉ được duy trì đến hết tháng 7 năm 2026. Sau thời gian này, đường dẫn có thể không còn truy cập được do các tài nguyên AWS được tạm dừng để kiểm soát chi phí.
+{{% /notice %}}
+

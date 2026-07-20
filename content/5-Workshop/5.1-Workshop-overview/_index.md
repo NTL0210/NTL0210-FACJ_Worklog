@@ -1,7 +1,7 @@
 ---
 title : "Introduction"
-date : 2026-01-01 
-weight : 1 
+date : 2026-01-01
+weight : 1
 chapter : false
 pre : " <b> 5.1. </b> "
 ---
@@ -53,3 +53,17 @@ The main workshop region should be **Asia Pacific (Singapore) — ap-southeast-1
 | Frontend | CloudFront distribution with `Deployed` status and dashboard URL | Proves the frontend is delivered |
 | Monitoring | CloudWatch log group/log stream for Lambda or Step Functions | Proves logs are available for debugging and operations |
 | Final test | Dashboard after sign-in and the task list page | Proves the end-to-end flow works |
+
+
+
+#### Demo Videos and Deployment Links
+
+You can review the system deployment process and final results through the following links:
+
+* **YouTube Demo Video:** [Watch the demo video](https://youtu.be/784lTQMB2YU)
+* **Google Drive Folder:** [View the documents and demo files on Google Drive](https://drive.google.com/drive/folders/1x4Vyloh-aehE30BazEi0He-9aIlA4sjj?usp=sharing)
+* **Deployed Website:** [Access the AI Meeting Workforce Platform](https://d1gdsnv8exdah.cloudfront.net/login/)
+
+{{% notice warning %}}
+The demo website is expected to remain available until the end of July 2026. After this period, the website may no longer be accessible because the AWS resources may be stopped or removed to control operating costs.
+{{% /notice %}}
