@@ -28,9 +28,9 @@ In this post, I'll share how to use AWS Pricing Calculator to calculate costs fo
 
 ### Features:
 
-✅ **Completely free**: No charge for using the tool  
-✅ **No AWS login required**: Can be used directly in browser  
-✅ **Supports multiple services**: EC2, S3, RDS, Lambda, and hundreds of other AWS services  
+✅ **Completely free**: No charge for using the tool
+✅ **No AWS login required**: Can be used directly in browser
+✅ **Supports multiple services**: EC2, S3, RDS, Lambda, and hundreds of other AWS services
 ✅ **Share estimates**: Can export or share links with team
 
 ---
@@ -182,9 +182,9 @@ SAVINGS:                    $10.40/month ($124.80/year)
 
 Actual costs may vary depending on:
 
-⚠️ **Actual usage**: If you use more than expected  
-⚠️ **Generated network traffic**: Data transfer can spike unexpectedly  
-⚠️ **Additional services**: Backup, Snapshot, Elastic IP...  
+⚠️ **Actual usage**: If you use more than expected
+⚠️ **Generated network traffic**: Data transfer can spike unexpectedly
+⚠️ **Additional services**: Backup, Snapshot, Elastic IP...
 ⚠️ **Service price changes by Region**: AWS may adjust pricing
 
 ### Does not include Free Tier
@@ -239,10 +239,10 @@ In my opinion, **AWS Pricing Calculator** is a useful tool for anyone learning o
 
 ### Main benefits:
 
-✅ Estimate costs before deployment  
-✅ Compare different options  
-✅ Detailed budget planning  
-✅ Share with team and clients  
+✅ Estimate costs before deployment
+✅ Compare different options
+✅ Detailed budget planning
+✅ Share with team and clients
 ✅ Optimize AWS costs
 
 Instead of deploying resources and then checking costs, we can proactively estimate budgets in advance, compare options, and make appropriate decisions right from the system design phase.
